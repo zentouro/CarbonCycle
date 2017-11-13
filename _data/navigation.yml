@@ -1,6 +1,9 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Applet
+  url: /applet/
   excerpt:
   image:
+
+- title: About
+  url: /about/
