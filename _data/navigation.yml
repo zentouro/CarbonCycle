@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: Applet
+- title: "Applet"
   url: /applet/
   excerpt:
   image:
 
-- title: About
+- title: "About"
   url: /about/
   excerpt:
   image:
