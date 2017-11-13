@@ -30,7 +30,7 @@ image:
 <!-- </div>/.tiles -->
 
 <div>
-<h1> Home </h1>
+
 <h2 class="post-title">Carbon and the Global Carbon Cycle </h2>
 
 Carbon is a ubiquitous element on Earth. Most of the Earth’s carbon is stored in rocks, but this carbon is essentially inert on the 100’s to 1000’s year timescales of interest to humans.
