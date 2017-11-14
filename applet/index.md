@@ -1,6 +1,6 @@
 ---
-layout: archive
-permalink: /about
+layout: default
+permalink: applet
 title: "Applet"
 ---
 
