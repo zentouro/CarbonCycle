@@ -6,7 +6,8 @@ published: true
 ---
 
 <p style="text-align: center;">
-### The Global Carbon Budget : 1960 to 2100 </p>
+<h3> The Global Carbon Budget : 1960 to 2100 <h3> </p>
+
 Project CO2 sources and sinks by dragging the green points on the left graph. 
 Hit Run Projection for the impact on atmospheric CO2 (right graph) and the relative fluxes (bottom graphic).
 
