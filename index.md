@@ -3,6 +3,7 @@ layout: home
 permalink: /
 image:
   feature: mangrove.jpg
+published: true
 ---
 
 <!-- <div class="tiles">
@@ -55,4 +56,12 @@ With applet found on the next tab, you can develop your own scenarios for future
 <h3> More information </h3>
 
 In the following tabs, you can also find basic information on the major components of the global carbon cycle. Under the links tab, you can find links and other resources for more information.
+
+## Testing to see if this can also push to the site 
+
+
+
+
 </div>
+
+
