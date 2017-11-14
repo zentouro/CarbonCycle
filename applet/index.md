@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: applet
+permalink: /applet/
 title: "Applet"
 ---
 
