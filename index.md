@@ -30,16 +30,17 @@ Future climate warming depends on both the CO2 source from human emissions and t
 
 <h3> The Basics </h3>
 
-Carbon is transferred between CO2 and living or dead organic material by the very basic photosynthesis / respiration reaction (shown here in simplified form).
+ Carbon is transferred between CO2 and living or dead organic material by the very basic photosynthesis / respiration reaction (shown here in simplified form).
 
-CO2+H2O+energy <=> CH2O + O2
+<p> CO2+H2O+energy <=> CH2O + O2 </p>
 
-When this reaction proceeds to the right, it is the fixation of carbon to organic matter by plants via photosynthesis; and when it proceeds to the left, it is respiration or combustion of that organic matter. Fossil fuels are the remnants of dead organic matter that lived millions of years ago.
-The Global Carbon Cycle
+<p> When this reaction proceeds to the right, it is the fixation of carbon to organic matter by plants via photosynthesis; and when it proceeds to the left, it is respiration or combustion of that organic matter. Fossil fuels are the remnants of dead organic matter that lived millions of years ago. </p>
+
+<h3> The Global Carbon Cycle </h3>
 
 The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the IPCC AR4 report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC: Petagram of Carbon) and the major fluxes in GtC/yr. The numbers shown are the best estimates for the 1990’s.
 
-IMAGE HERE w/ caption 
+<p> IMAGE HERE w/ caption  </p>
 
 
 
