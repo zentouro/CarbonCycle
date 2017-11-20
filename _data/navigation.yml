@@ -1,13 +1,5 @@
 # Site navigation links
 
-- title: Applet
-  url: /applet/
-  excerpt:
-  image:
-
-- title: About
-  url: /about/
-
 - title: Carbon Cycle
 
 - title: Atmosphere
@@ -22,5 +14,13 @@
 
 - title: For Educators
   url: /educators/
+
+- title: Applet
+  url: /applet/
+  excerpt:
+  image:
+
+- title: About
+  url: /about/
 
 

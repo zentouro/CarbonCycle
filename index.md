@@ -39,7 +39,7 @@ The Global Carbon Cycle
 
 The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the IPCC AR4 report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC: Petagram of Carbon) and the major fluxes in GtC/yr. The numbers shown are the best estimates for the 1990’s.
 
-IMAGE HERE 
+IMAGE HERE w/ caption 
 
 
 
