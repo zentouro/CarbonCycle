@@ -6,30 +6,6 @@ image:
 published: true
 ---
 
-<!-- <div class="tiles">
-
-<div class="tile">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
-</div><!-- /.tile -->
-
-<!-- <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
-</div><!-- /.tile -->
-
-<!-- <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
-</div><!-- /.tile -->
-
-<!-- <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
-</div><!-- /.tile -->
-
-<!-- </div>/.tiles -->
-
 <div>
 
 <h3>Carbon and the Global Carbon Cycle </h3>
@@ -49,15 +25,24 @@ Natural processes are significantly damping the rate of carbon accumulation in t
 From 2000-2008, humans added 9.1 PgC to the atmosphere each year, 7.7 PgC/yr from fossil fuels and 1.4 PgC/yr from land use change. There is some evidence that a larger fraction of these recent emissions has remained in the atmosphere (45%, LeQuere et al. 2009).
 Future climate warming depends on both the CO2 source from human emissions and the CO2 sink from natural sinks in the ocean and the terrestrial biosphere.
 
-<h3> Carbon Cycle Applet </h3>
 
-With applet found on the next tab, you can develop your own scenarios for future human emissions and future carbon sinks in the oceans and on the land. Run the applet to see the impact on atmospheric CO2 and global mean temperature.
+<h2> Carbon Cycle </h2>
 
-<h3> More information </h3>
+<h3> The Basics </h3>
 
-In the following tabs, you can also find basic information on the major components of the global carbon cycle. Under the links tab, you can find links and other resources for more information.
+Carbon is transferred between CO2 and living or dead organic material by the very basic photosynthesis / respiration reaction (shown here in simplified form).
 
-## Testing to see if this can also push to the site 
+CO2+H2O+energy <=> CH2O + O2
+
+When this reaction proceeds to the right, it is the fixation of carbon to organic matter by plants via photosynthesis; and when it proceeds to the left, it is respiration or combustion of that organic matter. Fossil fuels are the remnants of dead organic matter that lived millions of years ago.
+The Global Carbon Cycle
+
+The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the IPCC AR4 report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC: Petagram of Carbon) and the major fluxes in GtC/yr. The numbers shown are the best estimates for the 1990’s.
+
+IMAGE HERE 
+
+
+
 
 
 
