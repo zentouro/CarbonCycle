@@ -38,9 +38,7 @@ Future climate warming depends on both the CO2 source from human emissions and t
 
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
-        <h1>Carbon and Climate</h1>
-        <h2>Basic information on the major components of the global carbon cycle</h2>
-        <a href="{{ site.url }}/applet/" class="btn-inverse">Use the applet</a> 
+        <h1> Carbon Cycle </h1>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
