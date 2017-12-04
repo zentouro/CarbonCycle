@@ -36,6 +36,8 @@ Natural processes are significantly damping the rate of carbon accumulation in t
 From 2000-2008, humans added 9.1 PgC to the atmosphere each year, 7.7 PgC/yr from fossil fuels and 1.4 PgC/yr from land use change. There is some evidence that a larger fraction of these recent emissions has remained in the atmosphere (45%, LeQuere et al. 2009).
 Future climate warming depends on both the CO2 source from human emissions and the CO2 sink from natural sinks in the ocean and the terrestrial biosphere.
 
+<p> </p>
+
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1> Carbon Cycle </h1>
@@ -58,7 +60,35 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 
 <p> IMAGE HERE w/ caption  </p>
 
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1> Atmosphere </h1>
+      </div><!-- /.page-lead-content -->
+</div><!-- /.page-lead -->
 
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1> Fossil Fuels </h1>
+      </div><!-- /.page-lead-content -->
+</div><!-- /.page-lead -->
+
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1> Ocean Uptake </h1>
+      </div><!-- /.page-lead-content -->
+</div><!-- /.page-lead -->
+
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1> Land Use </h1>
+      </div><!-- /.page-lead-content -->
+</div><!-- /.page-lead -->
+
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1> Land Uptake </h1>
+      </div><!-- /.page-lead-content -->
+</div><!-- /.page-lead -->
 
 
 
