@@ -7,6 +7,17 @@ published: true
 ---
 
 <div>
+	<div> 
+
+		<a href="{{ site.url }}/applet/" class="btn-inverse">Carbon Cycle</a> 
+     	<a href="{{ site.url }}/applet/" class="btn-inverse">Atmosphere</a> 
+      	<a href="{{ site.url }}/applet/" class="btn-inverse">Fossil Fuels</a> 
+      	<a href="{{ site.url }}/applet/" class="btn-inverse">Ocean Uptake</a> 
+      	<a href="{{ site.url }}/applet/" class="btn-inverse">Land Use</a> 
+      	<a href="{{ site.url }}/applet/" class="btn-inverse">Land Uptake</a> 
+      
+
+	</div>
 
 <h3>Carbon and the Global Carbon Cycle </h3>
 
