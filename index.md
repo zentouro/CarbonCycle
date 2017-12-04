@@ -36,6 +36,13 @@ Natural processes are significantly damping the rate of carbon accumulation in t
 From 2000-2008, humans added 9.1 PgC to the atmosphere each year, 7.7 PgC/yr from fossil fuels and 1.4 PgC/yr from land use change. There is some evidence that a larger fraction of these recent emissions has remained in the atmosphere (45%, LeQuere et al. 2009).
 Future climate warming depends on both the CO2 source from human emissions and the CO2 sink from natural sinks in the ocean and the terrestrial biosphere.
 
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+      <div class="wrap page-lead-content">
+        <h1>Carbon and Climate</h1>
+        <h2>Basic information on the major components of the global carbon cycle</h2>
+        <a href="{{ site.url }}/applet/" class="btn-inverse">Use the applet</a> 
+      </div><!-- /.page-lead-content -->
+</div><!-- /.page-lead -->
 
 <h2> Carbon Cycle </h2>
 
