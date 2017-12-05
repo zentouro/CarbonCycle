@@ -73,7 +73,7 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 
 </p>
  
-<img src = "({{site.baseurl}}/images/co2_data_mlo.png)" /> 
+<img src = "{{site.baseurl}}/images/co2_data_mlo.png" /> 
 
 <p>
 	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from NOAA here. NOAA has also produced this great visualization of our current observations and the past history of CO2 in the atmosphere.
