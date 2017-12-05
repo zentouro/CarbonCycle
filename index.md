@@ -68,23 +68,16 @@ The carbon cycle is a complex system of biological, chemical and physical proces
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
-<p>
-	In 1958, Charles D. Keeling began taking measurements of atmospheric CO2 at Mauna Loa, Hawaii. One can see both the seasonal cycle, dominated by the annual cycle of photosynthesis and respiration in the terrestrial biosphere of the Northern Hemisphere, as well as the clear upward trend.
 
-</p>
-<span>
+In 1958, Charles D. Keeling began taking measurements of atmospheric CO2 at Mauna Loa, Hawaii. One can see both the seasonal cycle, dominated by the annual cycle of photosynthesis and respiration in the terrestrial biosphere of the Northern Hemisphere, as well as the clear upward trend.
+
 ![co2_data_mlo.png]({{site.baseurl}}/images/co2_data_mlo.png)
-</span>
-<p>
-	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from NOAA here. NOAA has also produced this great visualization of our current observations and the past history of CO2 in the atmosphere.
 
-</p>
+These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from NOAA here. NOAA has also produced this great visualization of our current observations and the past history of CO2 in the atmosphere.
 
-<p>
+As explained in the following tabs, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
 
-	As explained in the following tabs, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
 
-</p>
 
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
