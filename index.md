@@ -11,7 +11,7 @@ published: true
 	<a href="#linktotop"> </a>
 	<div> 
 
-		<a href="{{ site.url }}/applet/" class="btn-inverse">Carbon Cycle</a> 
+		<a href="#CarbonCycle" class="btn-inverse"> Carbon Cycle</a> 
      	<a href="{{ site.url }}/applet/" class="btn-inverse">Atmosphere</a> 
       	<a href="{{ site.url }}/applet/" class="btn-inverse">Fossil Fuels</a> 
       	<a href="{{ site.url }}/applet/" class="btn-inverse">Ocean Uptake</a> 
@@ -42,7 +42,7 @@ Future climate warming depends on both the CO2 source from human emissions and t
 
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
-        <h1> Carbon Cycle </h1>
+        <a name="CarbonCycle"> <h1> Carbon Cycle </h1> </a>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
