@@ -72,6 +72,7 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 	In 1958, Charles D. Keeling began taking measurements of atmospheric CO2 at Mauna Loa, Hawaii. One can see both the seasonal cycle, dominated by the annual cycle of photosynthesis and respiration in the terrestrial biosphere of the Northern Hemisphere, as well as the clear upward trend.
 
 </p>
+![co2_data_mlo.png]({{site.baseurl}}/co2_data_mlo.png)
 
 <p>
 	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from NOAA here. NOAA has also produced this great visualization of our current observations and the past history of CO2 in the atmosphere.
@@ -113,5 +114,3 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 
 <a name="linktotop"> Back To Top </a> 
 </div>
-
-
