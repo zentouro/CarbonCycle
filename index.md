@@ -8,15 +8,15 @@ published: true
 
 
 <div>
-	<a href="#linktotop"> </a>
+	<a name="linktotop"> </a>
 	<div> 
 
 		<a href="#CarbonCycle" class="btn-inverse"> Carbon Cycle</a> 
-     	<a href="{{ site.url }}/applet/" class="btn-inverse">Atmosphere</a> 
-      	<a href="{{ site.url }}/applet/" class="btn-inverse">Fossil Fuels</a> 
-      	<a href="{{ site.url }}/applet/" class="btn-inverse">Ocean Uptake</a> 
-      	<a href="{{ site.url }}/applet/" class="btn-inverse">Land Use</a> 
-      	<a href="{{ site.url }}/applet/" class="btn-inverse">Land Uptake</a> 
+    <a href="#Atmosphere" class="btn-inverse">Atmosphere</a> 
+    <a href="#FossilFuels" class="btn-inverse">Fossil Fuels</a> 
+    <a href="#OceanUptake" class="btn-inverse">Ocean Uptake</a> 
+    <a href="#LandUse" class="btn-inverse">Land Use</a> 
+    <a href="#LandUptake" class="btn-inverse">Land Uptake</a> 
       
 
 	</div>
@@ -40,11 +40,12 @@ Future climate warming depends on both the CO2 source from human emissions and t
 
 <p> </p>
 
+<a name="CarbonCycle"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
          <h1> Carbon Cycle </h1>
       </div><!-- /.page-lead-content --> 
-      <a name="CarbonCycle"> </a>
+
 </div><!-- /.page-lead -->
 
 <h2> Carbon Cycle </h2>
@@ -63,6 +64,7 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 
 <p> IMAGE HERE w/ caption  </p>
 
+<a name="Atmosphere"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1> Atmosphere </h1>
@@ -86,25 +88,28 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 	As explained in the following tabs, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
 
 </p>
-
+<a name="FossilFuels"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1> Fossil Fuels </h1>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
+<a name="OceanUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1> Ocean Uptake </h1>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
+<a name="LandUse"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1> Land Use </h1>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
+<a name="LandUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
         <h1> Land Uptake </h1>
@@ -114,5 +119,5 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 
 
 
-<a name="linktotop"> Back To Top </a> 
+<a href="#linktotop"> Back To Top </a> 
 </div>
