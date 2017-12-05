@@ -41,9 +41,9 @@ Future climate warming depends on both the CO2 source from human emissions and t
 <p> </p>
 
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
-      <div class="wrap page-lead-content">
-        <a name="CarbonCycle"> <h1> Carbon Cycle </h1> </a>
-      </div><!-- /.page-lead-content -->
+      <a name="CarbonCycle"> <div class="wrap page-lead-content">
+         <h1> Carbon Cycle </h1>
+      </div><!-- /.page-lead-content --> </a>
 </div><!-- /.page-lead -->
 
 <h2> Carbon Cycle </h2>
