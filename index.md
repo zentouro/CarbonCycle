@@ -8,7 +8,7 @@ published: true
 
 
 <div>
-	<a name="linktotop"> </a>
+	
 	<div> 
 
 		<a href="#CarbonCycle" class="btn-inverse"> Carbon Cycle</a> 
@@ -118,7 +118,4 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 
 
 
-<br>
-
-<a href="#linktotop" class="btn-inverse"> Back To Top </a> 
 </div>
