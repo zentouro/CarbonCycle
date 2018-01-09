@@ -112,7 +112,7 @@ You can find information about the emissions from the developed world (so-called
 
 The future of anthropogenic fossil fuel use depends on human decisions about energy use at the international scale. If we collectively choose to depend more and more on fossil fuels, our emissions will increase. If we choose to focus on efficiency and renewable energy sources, our emissions will not increase so quickly or even stabilize or decline. These are difficult choices with potentially dramatic implications for economies, politics, environment, and society from the local to the global scale. These issues are the focus of the activities under the United Nations Framework Convention on Climate Change (http://unfccc.int) such as the well-known Kyoto Protocol and the current negotiations for a successor to this action plan.
 
-<h3> References </h3>
+<h4> References </h4>
 
 Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836. doi:10.1038/ngeo689.
 
@@ -149,7 +149,7 @@ Uncertainties in the ocean carbon uptake include the degree to which ocean circu
 
 There are additional consequences to the ocean’s uptake of carbon. CO2 dissolved in seawater and forms carbonic acid, and so adding more CO2 to the water makes the ocean more acidic. From preindustrial times to present the pH of the ocean has declined 0.1 pH units, from 8.21 to 8.10, and it is likely to decline by another 0.3-0.4 pH units by the 2100, assuming atmospheric pCO2 is about 800 ppmv by that time. Acidification will damage coral reefs and likely place significant stress on species important to ocean food chain, particularly in the Southern Ocean. Scientists are working hard to better-understand the impacts on organisms and the integrated effects on ocean ecosystems. Here is a video from National Resources Defense Council on ocean acidification. For more detail, see these pages from NOAA and the Woods Hole Oceanographic Institution.
 
-<h3> References: </h3>
+<h4> References: </h4>
 
 Bopp L., et al. (2001) Potential impact of climate change on marine export production. Global Biogeochem. Cycles, 15, 1, doi:10.1029/1999GB001256. 
 
@@ -196,9 +196,9 @@ A variety of models were used to project future land use for the emissions scena
 
 These terms are separated to clarify the direct impact of humans in forest clearing and subsequent regrowth (Land Use), and the natural system’s response to anthropogenic addition of carbon to the atmosphere and climate warming (Land Uptake). In many studies, however, it is impractical to precisely distinguish between these two terms and so often some component of the Land Use term (such as afforestation in the mid-latitudes) is effectively subsumed into the Land Uptake term.
 
-<h3> References: </h3>
+<h4> References: </h4>
 
-Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057
+<p> Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 </p>
 
 <a name="LandUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
@@ -234,7 +234,7 @@ In addition, the land may become a natural source of carbon to the atmosphere. P
 <p>
 It is very important that we better understand the mechanisms of land uptake. As understanding improves, predictions will be of greater assistance to carbon management decision-making. Improving mechanistic understanding is a central focus of the US-led North American Carbon Program and Europe’s CarboEurope. </p>
 
-<h3> References: </h3>
+<h4> References: </h4>
 
 <p>
 Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 | doi:10.1038/415626. </p>
