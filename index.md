@@ -25,12 +25,14 @@ published: true
 
 Carbon is a ubiquitous element on Earth. Most of the Earth’s carbon is stored in rocks, but this carbon is essentially inert on the 100’s to 1000’s year timescales of interest to humans.
 The rest of the carbon is stored as CO2 (carbon dioxide) in the atmosphere (2%), as biomass in land plants and soils (5%), as fossil fuels in a variety of geologic reservoirs (8%) and as a collection of ions in the ocean (85%). These are the “active” reservoirs of carbon of interest in this website.
+
 <h3> How are the Global Carbon Cycle and Climate Change / Global Warming connected? </h3>
 
 The Earth is warmed by the Sun. This warmth is returned from Earth to the atmosphere in the form of heat radiation.
 Many gases in the atmosphere, including CO2, absorb the Earth’s heat energy and radiate in all directions. The energy radiated downward warms the surface and lower atmosphere.
 Adding more CO2 to the atmosphere means more heat radiation is captured by the atmosphere and radiated back to Earth.
 Methane, CH4, is another very important greenhouse gas that is part of the carbon cycle. This website addresses only CO2.
+
 <h3> Humans add CO2 to the Atmosphere, Nature removes about half of it. </h3>
 
 In the 1990’s, humans added 8.0×1015 grams of carbon (1015 grams of carbon  = 1 PgC) to the atmosphere each year, primarily by burning fossil fuels (6.4 PgC/yr) and clearing land in the tropics (1.6 PgC/yr). The ocean took up 28% of this carbon, and the land absorbed 32%. Only 40% remained in the atmosphere to cause climate warming.
@@ -47,8 +49,6 @@ Future climate warming depends on both the CO2 source from human emissions and t
       </div><!-- /.page-lead-content --> 
 
 </div><!-- /.page-lead -->
-
-<h2> Carbon Cycle </h2>
 
 <h3> The Basics </h3>
 
@@ -95,25 +95,28 @@ The carbon cycle is a complex system of biological, chemical and physical proces
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
-The Basics 
+<h3> The Basics </h3> 
 
 Burning fossil fuels puts carbon into the atmosphere. Other smaller sources include industrial processes such as cement manufacture and natural gas flaring. Fossil fuels provide most of the energy that supports human transportation, electricity production, heating and cooling of buildings, and industrial activity. Oil used to be the dominant fossil fuel, but as of 2008, coal is dominant (40% to oil’s 37%).
 
-In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon (PgC) per year, and in from 2000-2008, 7.7 PgC/yr. Over 2000-2008, emissions increased by 3.4% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase is due primarily to a doubling of emissions from developing countries. Emissions in 2008 are consistent with the most intensive fossil fuel emission projections used in the IPCC AR4 report (A1FI scenario).
+<p>
+In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon (PgC) per year, and in from 2000-2008, 7.7 PgC/yr. Over 2000-2008, emissions increased by 3.4% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase is due primarily to a doubling of emissions from developing countries. Emissions in 2008 are consistent with the most intensive fossil fuel emission projections used in the IPCC AR4 report (A1FI scenario). </p>
 
-Evidence indicates that the rapid rise in emissions from developing countries, including China, are due to growth in international trade and a shift of developed countries toward service economies. The production of exports in developing countries is also an important driver of their increased emissions.
+<p>
+Evidence indicates that the rapid rise in emissions from developing countries, including China, are due to growth in international trade and a shift of developed countries toward service economies. The production of exports in developing countries is also an important driver of their increased emissions. </p>
 
-You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) at http://unfccc.int/ghg_data/items/3800.php . You can also learn more about the spatial and temporal pattern of US emissions from Project Vulcan.
+<p> 
+You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) at http://unfccc.int/ghg_data/items/3800.php . You can also learn more about the spatial and temporal pattern of US emissions from Project Vulcan. </p>
 
-The Future of Fossil Fuels
+<h3> The Future of Fossil Fuels </h3>
 
 The future of anthropogenic fossil fuel use depends on human decisions about energy use at the international scale. If we collectively choose to depend more and more on fossil fuels, our emissions will increase. If we choose to focus on efficiency and renewable energy sources, our emissions will not increase so quickly or even stabilize or decline. These are difficult choices with potentially dramatic implications for economies, politics, environment, and society from the local to the global scale. These issues are the focus of the activities under the United Nations Framework Convention on Climate Change (http://unfccc.int) such as the well-known Kyoto Protocol and the current negotiations for a successor to this action plan.
 
-References
+<h3> References </h3>
 
 Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836. doi:10.1038/ngeo689.
 
-Global Carbon Project
+<p> Global Carbon Project </p>
 
 <a name="OceanUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
@@ -122,42 +125,54 @@ Global Carbon Project
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
-The Basics 
+<h3> The Basics </h3>
 
 CO2 dissolves in seawater, and then reacts with the water so that it disassociates into several ions. This disassociation means that the oceans can hold a lot of carbon – 85% of the active reservoir on Earth. Cold seawater can hold more CO2 than warm water, so waters that are cooling (i.e. poleward-moving western boundary currents) tend to take up carbon, and waters that are upwelling and warming (i.e. coastal zones and the tropics) tend to emit carbon. This is the basic reason for the pattern of the global sea-to-air CO2 flux as estimated by Takahashi et al. [2009] in the figure at right.
 
-The ocean is also teeming with plant life that photosynthesizes in the presence of nutrients and sunlight and makes organic matter out of the seawater CO2. Though much of the CO2 removed from seawater biologically is quickly recycled back to CO2 by the surface ocean food web, a small portion (<1%) of the waste matter sinks down into the deep and enriches the abyss with carbon. This process moves carbon from the surface ocean to the deep ocean and stores carbon away from the atmospheric reservoir. Here’s a nice video from NASA on ocean phytoplankton and their global importance.
+<p>
+The ocean is also teeming with plant life that photosynthesizes in the presence of nutrients and sunlight and makes organic matter out of the seawater CO2. Though much of the CO2 removed from seawater biologically is quickly recycled back to CO2 by the surface ocean food web, a small portion (< 1%) of the waste matter sinks down into the deep and enriches the abyss with carbon. This process moves carbon from the surface ocean to the deep ocean and stores carbon away from the atmospheric reservoir. Here’s a nice video from NASA on ocean phytoplankton and their global importance. </p>
 
-As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans. Of all the CO2 put into the atmosphere by humans since pre-industrial times, the ocean has taken up about half (118 +- 19 PgC/yr by 1994, Sabine et al. 2004). This carbon is almost all in the surface 1km of ocean and has not penetrated any deeper because the ocean takes about 1000 years to mix completely. For the 1990’s, ocean models and a variety of data-based approaches suggest that the ocean sink was 2.2+-0.4 PgC/yr.
+<p>
+As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans. Of all the CO2 put into the atmosphere by humans since pre-industrial times, the ocean has taken up about half (118 +- 19 PgC/yr by 1994, Sabine et al. 2004). This carbon is almost all in the surface 1km of ocean and has not penetrated any deeper because the ocean takes about 1000 years to mix completely. For the 1990’s, ocean models and a variety of data-based approaches suggest that the ocean sink was 2.2+-0.4 PgC/yr. </p>
 
-The Future of Ocean Carbon Uptake
+<h3> The Future of Ocean Carbon Uptake </h3>
 
 Scientists expect that the ocean will eventually take up about 85% of anthropogenic CO2, but because the ocean takes ~1000 years to mix, this process will take many hundreds to thousands of years. Through 2100, an increasing sink is expected because the increasing CO2 in the atmosphere will drive more carbon into the ocean by the solubility mechanism. However, because of the chemistry of carbon in seawater, the ability of the ocean to absorb carbon decreases as the concentration increases. Anthropogenic forcings may slow down the large-scale overturning circulation of the ocean and reduce the efficiency of the ocean sink. Predictive models suggest significant regional changes in biological removal of carbon to the deep ocean, but a small net effect on globally-integrated ocean carbon uptake.
 
-Currently, there is scientific debate about whether observations and models are already able to illustrate the declining ability of the ocean to absorb anthropogenic carbon [Canadell et al. 2007; LeQuere et al. 2009; Khatiwala et al. 2009; Knorr 2009].
+<p>
+Currently, there is scientific debate about whether observations and models are already able to illustrate the declining ability of the ocean to absorb anthropogenic carbon [Canadell et al. 2007; LeQuere et al. 2009; Khatiwala et al. 2009; Knorr 2009]. </p>
 
-Uncertainties in the ocean carbon uptake include the degree to which ocean circulation will change with climate warming and how this will modify carbon uptake. Model predictions suggest small future changes to the “biological pump” of carbon to the deep ocean, but these models do not account for potentially-important ecosystem shifts or for changes in carbon cycling in the near-surface ocean. Carbon cycling in coastal systems, including estuaries and marshes and the continental shelves is poorly quantified. These are areas of active research. The Ocean Carbon and Biogeochemistry program promotes and coordinates these research activities in the US, as does CarboOcean in Europe.
+<p>
+Uncertainties in the ocean carbon uptake include the degree to which ocean circulation will change with climate warming and how this will modify carbon uptake. Model predictions suggest small future changes to the “biological pump” of carbon to the deep ocean, but these models do not account for potentially-important ecosystem shifts or for changes in carbon cycling in the near-surface ocean. Carbon cycling in coastal systems, including estuaries and marshes and the continental shelves is poorly quantified. These are areas of active research. The Ocean Carbon and Biogeochemistry program promotes and coordinates these research activities in the US, as does CarboOcean in Europe. </p>
 
-The “Other CO2 Problem” = Ocean Acidification
+<h3> The “Other CO2 Problem” = Ocean Acidification </h3>
 
 There are additional consequences to the ocean’s uptake of carbon. CO2 dissolved in seawater and forms carbonic acid, and so adding more CO2 to the water makes the ocean more acidic. From preindustrial times to present the pH of the ocean has declined 0.1 pH units, from 8.21 to 8.10, and it is likely to decline by another 0.3-0.4 pH units by the 2100, assuming atmospheric pCO2 is about 800 ppmv by that time. Acidification will damage coral reefs and likely place significant stress on species important to ocean food chain, particularly in the Southern Ocean. Scientists are working hard to better-understand the impacts on organisms and the integrated effects on ocean ecosystems. Here is a video from National Resources Defense Council on ocean acidification. For more detail, see these pages from NOAA and the Woods Hole Oceanographic Institution.
-References:
 
-Bopp L., et al. (2001) Potential impact of climate change on marine export production. Global Biogeochem. Cycles, 15, 1, doi:10.1029/1999GB001256.
+<h3> References: </h3>
 
-Canadell et al. (2007) Contributions to accelerating atmospheric CO2 growth from economic activity, carbon intensity and efficiency of natural sinks. Proc. Natl. Acad. Sci. USA 104 18866-18870. doi:10.1073/pnas.0702737104.
+Bopp L., et al. (2001) Potential impact of climate change on marine export production. Global Biogeochem. Cycles, 15, 1, doi:10.1029/1999GB001256. 
 
-Doney, S.C., 2006: The dangers of ocean acidification. Scientific American, 294(3), March 2006, 58-65.
+<p>
+Canadell et al. (2007) Contributions to accelerating atmospheric CO2 growth from economic activity, carbon intensity and efficiency of natural sinks. Proc. Natl. Acad. Sci. USA 104 18866-18870. doi:10.1073/pnas.0702737104. </p>
 
-Doney, S.C., V.J. Fabry, R.A. Feely, J.A. Kleypas, 2009: Ocean acidification: the other CO2 problem, Ann. Rev. Mar. Sci., 1, 169-192, 10.1146/annurev.marine.010908.163834.
+<p>
+Doney, S.C., 2006: The dangers of ocean acidification. Scientific American, 294(3), March 2006, 58-65. </p>
 
-Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . doi:10.1038/nature08526.
+<p>
+Doney, S.C., V.J. Fabry, R.A. Feely, J.A. Kleypas, 2009: Ocean acidification: the other CO2 problem, Ann. Rev. Mar. Sci., 1, 169-192, 10.1146/annurev.marine.010908.163834. </p>
 
-Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836.doi:10.1038/ngeo689.
+<p>
+Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . doi:10.1038/nature08526. </p>
 
-Sabine et al. (2004) The ocean sink for anthropogenic CO2. Vol. 305. no. 5682, pp. 367 – 371 doi: 10.1126/science.1097403.
+<p>
+Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836.doi:10.1038/ngeo689. </p>
 
-Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean pCO2, and net sea-air CO2 flux over the global oceans. DSR II, 56, 554-577.
+<p>
+Sabine et al. (2004) The ocean sink for anthropogenic CO2. Vol. 305. no. 5682, pp. 367 – 371 doi: 10.1126/science.1097403. </p>
+
+<p>
+Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean pCO2, and net sea-air CO2 flux over the global oceans. DSR II, 56, 554-577. </p>
 
 <a name="LandUse"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
@@ -166,21 +181,22 @@ Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
-The Basics 
+<h3> The Basics </h3>
 
 New agricultural land is typically created by cutting down forests. When trees are cut down and burned or left to decompose, carbon goes into the atmosphere. In the present day, deforestation and the resulting net carbon source to the atmosphere is primarily occurring in the tropics. However, in the last 200 years, forest clearing for agriculture in the middle latitudes of the Northern Hemisphere was also a substantial source of carbon to the atmosphere. Since the mid-1900’s, much of the less-productive agricultural land in the US and Europe has been allowed to regrow as forests – making for uptake of carbon from the atmosphere through carbon accumulation in woody biomass and soils.
 
-Uncertainty in estimates of the land use source are large in part because estimates of deforestation are, themselves, uncertain, and also in part because the amount of carbon stored in the forests is not well-quantified.
+<p>
+Uncertainty in estimates of the land use source are large in part because estimates of deforestation are, themselves, uncertain, and also in part because the amount of carbon stored in the forests is not well-quantified. </p>
 
-The Future of Land Use
+<h3> The Future of Land Use </h3>
 
 A variety of models were used to project future land use for the emissions scenarios use for the IPCC AR4 report (IPCC Special Report on Emission Scenarios, Chapter 6, Figure 6-6b). These models suggest that deforestation will peak by about 2025 and then gradually decline with time. This trend is primarily driven by reduced rates of population growth and improving agricultural productivity. Eventually, several scenarios predict that land use, currently a substantial source of CO2 to the atmosphere, will become a sink of CO2 from the atmosphere as forests grow back.
 
-What is the difference between Land Use and Land Uptake?
+<h3> What is the difference between Land Use and Land Uptake? </h3>
 
 These terms are separated to clarify the direct impact of humans in forest clearing and subsequent regrowth (Land Use), and the natural system’s response to anthropogenic addition of carbon to the atmosphere and climate warming (Land Uptake). In many studies, however, it is impractical to precisely distinguish between these two terms and so often some component of the Land Use term (such as afforestation in the mid-latitudes) is effectively subsumed into the Land Uptake term.
 
-References:
+<h3> References: </h3>
 
 Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057
 
@@ -191,34 +207,44 @@ Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Plane
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
-The Basics 
+<h3> The Basics </h3>
 
 The land biosphere takes up and releases enormous amounts of carbon each year as it cycles through periods of growth and dormancy. Growth leads to the accumulation of carbon in leaves and stalks, woody parts, roots, and in soils. Decay of dead matter, primarily on the ground and in soils, returns carbon to the atmosphere. This cycling can be seen in the atmospheric CO2 observations on the Atmosphere tab, and in the animation at the bottom of this page.
 
-Because land plants are sensitive to short-term changes in climate that make for variable quality of growing seasons, and is also vulnerable to extreme events such as fire, drought and flooding, there is substantial year-to-year variability in the magnitude of the carbon uptake by the terrestrial biosphere. This can be seen in the historical record shown in orange in the applet.
+<p>
+Because land plants are sensitive to short-term changes in climate that make for variable quality of growing seasons, and is also vulnerable to extreme events such as fire, drought and flooding, there is substantial year-to-year variability in the magnitude of the carbon uptake by the terrestrial biosphere. This can be seen in the historical record shown in orange in the applet. </p>
 
-Why is the Land Biosphere Absorbing Atmospheric CO2?
+<h3> Why is the Land Biosphere Absorbing Atmospheric CO2? </h3>
 
 The current net carbon uptake by the land biosphere is primarily due to the physiological or metabolic responses by plants to the increasing CO2 concentration in the atmosphere or to climate warming. (1) Warming may stimulate growth, and allow growth of trees at higher latitudes than previously possible. (2) The leaves of plants must open their stomata to take in CO2, but this opening also leads to loss of water. Thus, if there is more CO2 in the air, the stomata don’t need to be open so much, and thus water loss can be lessened.  (3) Humans are also substantially modifying the global nitrogen cycle, increasing the nitrogen available to plants. This is likely stimulating some additional growth. (4) There may be important synergies between the carbon, nitrogen, and warming effects on plants.
 
-Yet, there is large uncertainty in the uptake of carbon by natural component of the terrestrial biosphere; and studies using independent data and methodologies do not tend to agree as to the size of the land uptake. Heterogeneity across and within forests, prairies, and agriculture lands makes extrapolation from small-scale studies difficult; there are poorly-quantified horizontal transfers in groundwater, inland waters and to the coastal ocean [Tranvik et al. 2009]; and global scale budget efforts are confounded by insufficient data and uncertainty in the atmospheric transport that connects and mixes terrestrial flux signals on their way to distant observation locations [Gurney et al. 2002].
+<p>
+Yet, there is large uncertainty in the uptake of carbon by natural component of the terrestrial biosphere; and studies using independent data and methodologies do not tend to agree as to the size of the land uptake. Heterogeneity across and within forests, prairies, and agriculture lands makes extrapolation from small-scale studies difficult; there are poorly-quantified horizontal transfers in groundwater, inland waters and to the coastal ocean [Tranvik et al. 2009]; and global scale budget efforts are confounded by insufficient data and uncertainty in the atmospheric transport that connects and mixes terrestrial flux signals on their way to distant observation locations [Gurney et al. 2002]. </p>
 
-The Future of Land Uptake
+<h3> The Future of Land Uptake </h3>
 
 In the applet, you can see that the IPCC range for future Land Uptake is large. This is because we have a poor handle on the processes responsible for Land Uptake at present, and so cannot make precise predictions for the future.
 
-The “CO2 fertilization effect” of enhanced growth by plants with more CO2 has been shown to be primarily a temporary effect that saturates after a few years. Much of the range of IPCC predictions, shown in the applet, is due to a range of assumptions about this process. There is less information about nitrogen fertilization and its possible future role, and even less about possible synergies of the mechanisms.
+<p>
+The “CO2 fertilization effect” of enhanced growth by plants with more CO2 has been shown to be primarily a temporary effect that saturates after a few years. Much of the range of IPCC predictions, shown in the applet, is due to a range of assumptions about this process. There is less information about nitrogen fertilization and its possible future role, and even less about possible synergies of the mechanisms. </p>
 
-In addition, the land may become a natural source of carbon to the atmosphere. Persistent drought may cause dramatic forest fires and large “natural” losses in tropical forests. There is also lots of organic carbon stored in the permafrosts at high latitudes and in soils. Warming temperatures will lead to thawing and increased microbial activity, and so CO2 will be released as this organic matter decomposes. The magnitudes of these reservoirs and their sensitivities to warming are important research questions at present. In the applet, the Land Uptake range crosses into the realm of a CO2 source primarily because of these effects.
+<p>
+In addition, the land may become a natural source of carbon to the atmosphere. Persistent drought may cause dramatic forest fires and large “natural” losses in tropical forests. There is also lots of organic carbon stored in the permafrosts at high latitudes and in soils. Warming temperatures will lead to thawing and increased microbial activity, and so CO2 will be released as this organic matter decomposes. The magnitudes of these reservoirs and their sensitivities to warming are important research questions at present. In the applet, the Land Uptake range crosses into the realm of a CO2 source primarily because of these effects. </p>
 
-It is very important that we better understand the mechanisms of land uptake. As understanding improves, predictions will be of greater assistance to carbon management decision-making. Improving mechanistic understanding is a central focus of the US-led North American Carbon Program and Europe’s CarboEurope.
+<p>
+It is very important that we better understand the mechanisms of land uptake. As understanding improves, predictions will be of greater assistance to carbon management decision-making. Improving mechanistic understanding is a central focus of the US-led North American Carbon Program and Europe’s CarboEurope. </p>
 
-References:
+<h3> References: </h3>
 
-Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 | doi:10.1038/415626.
+<p>
+Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 | doi:10.1038/415626. </p>
 
-Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057
+<p>
+Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 
+</p>
 
+<p>
 Tranvik, L. et al. (2009) Lakes and reservoirs as regulators of carbon cycling and climate. Limnol. Oceanogr., 54(6, part 2), 2009, 2298–2314.
+</p>
 
 </div>
