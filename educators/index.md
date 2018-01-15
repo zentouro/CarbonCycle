@@ -16,4 +16,6 @@ Below are two lesson plans to accompany this website and that involve student us
 
 <p> This resource has been selected by CLEAN – “Climate Literacy and Energy Awareness Network” with additional teaching ideas here 
 
+<br>
+
 CARBON CONNECTIONS also has ideas and interactive tools for teaching about the global carbon cycle. </p>
