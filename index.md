@@ -3,6 +3,7 @@ layout: home
 permalink: /
 image:
   feature: mangrove.jpg
+  forest: forestlights.jpg
 published: true
 ---
 
@@ -65,7 +66,7 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 <p> IMAGE HERE w/ caption  </p>
 
 <a name="Atmosphere"> </a>
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.forest }})">
       <div class="wrap page-lead-content">
         <h1> Atmosphere </h1>
       </div><!-- /.page-lead-content -->
