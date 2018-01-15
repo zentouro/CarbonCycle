@@ -4,6 +4,7 @@ permalink: /
 image:
   feature: mangrove.jpg
   forest: forestlights.jpg
+  atmosphere: atmos.jpg
 published: true
 ---
 
@@ -44,7 +45,7 @@ Future climate warming depends on both the CO2 source from human emissions and t
 <p> </p>
 
 <a name="CarbonCycle"> </a>
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.forest }})">
       <div class="wrap page-lead-content">
          <h1> Carbon Cycle </h1>
       </div><!-- /.page-lead-content --> 
@@ -66,7 +67,7 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 <p> IMAGE HERE w/ caption  </p>
 
 <a name="Atmosphere"> </a>
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.forest }})">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.atmosphere }})">
       <div class="wrap page-lead-content">
         <h1> Atmosphere </h1>
       </div><!-- /.page-lead-content -->
