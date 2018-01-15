@@ -5,6 +5,10 @@ image:
   feature: mangrove.jpg
   forest: forestlights.jpg
   atmosphere: atmos.jpg
+  fossilfuels: coalmine.jpg
+  ocean: ocean.jpg
+  land: landUse.jpg
+  land2: oldGrowth.jpg
 published: true
 ---
 
@@ -91,7 +95,7 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 
 </p>
 <a name="FossilFuels"> </a>
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.fossilfuels }})">
       <div class="wrap page-lead-content">
         <h1> Fossil Fuels </h1>
       </div><!-- /.page-lead-content -->
@@ -121,7 +125,7 @@ Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in t
 <p> Global Carbon Project </p>
 
 <a name="OceanUptake"> </a>
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.ocean }})">
       <div class="wrap page-lead-content">
         <h1> Ocean Uptake </h1>
       </div><!-- /.page-lead-content -->
@@ -177,7 +181,7 @@ Sabine et al. (2004) The ocean sink for anthropogenic CO2. Vol. 305. no. 5682, p
 Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean pCO2, and net sea-air CO2 flux over the global oceans. DSR II, 56, 554-577. </p>
 
 <a name="LandUse"> </a>
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.land }})">
       <div class="wrap page-lead-content">
         <h1> Land Use </h1>
       </div><!-- /.page-lead-content -->
@@ -203,7 +207,7 @@ These terms are separated to clarify the direct impact of humans in forest clear
 <p> Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 </p>
 
 <a name="LandUptake"> </a>
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.land2 }})">
       <div class="wrap page-lead-content">
         <h1> Land Uptake </h1>
       </div><!-- /.page-lead-content -->
