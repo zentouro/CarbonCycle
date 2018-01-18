@@ -241,7 +241,7 @@ These terms are separated to clarify the direct impact of humans in forest clear
 The land biosphere takes up and releases enormous amounts of carbon each year as it cycles through periods of growth and dormancy. Growth leads to the accumulation of carbon in leaves and stalks, woody parts, roots, and in soils. Decay of dead matter, primarily on the ground and in soils, returns carbon to the atmosphere. This cycling can be seen in the atmospheric CO2 observations on the Atmosphere tab, and in the animation at the bottom of this page.
 
 <p>
-Because land plants are sensitive to short-term changes in climate that make for variable quality of growing seasons, and is also vulnerable to extreme events such as fire, drought and flooding, there is substantial year-to-year variability in the magnitude of the carbon uptake by the terrestrial biosphere. This can be seen in the historical record shown in orange in the applet. </p>
+Because land plants are sensitive to short-term changes in climate that make for variable quality of growing seasons, and is also vulnerable to extreme events such as fire, drought and flooding, there is substantial year-to-year variability in the magnitude of the carbon uptake by the terrestrial biosphere. This can be seen in the historical record shown in orange in the <a href="{{ site.url }}/applet/"> applet</a>. </p>
 
 <h3> Why is the Land Biosphere Absorbing Atmospheric CO2? </h3>
 
@@ -252,28 +252,35 @@ Yet, there is large uncertainty in the uptake of carbon by natural component of 
 
 <h3> The Future of Land Uptake </h3>
 
-In the applet, you can see that the IPCC range for future Land Uptake is large. This is because we have a poor handle on the processes responsible for Land Uptake at present, and so cannot make precise predictions for the future.
+In the <a href="{{ site.url }}/applet/"> applet</a>, you can see that the IPCC range for future Land Uptake is large. This is because we have a poor handle on the processes responsible for Land Uptake at present, and so cannot make precise predictions for the future.
 
 <p>
-The “CO2 fertilization effect” of enhanced growth by plants with more CO2 has been shown to be primarily a temporary effect that saturates after a few years. Much of the range of IPCC predictions, shown in the applet, is due to a range of assumptions about this process. There is less information about nitrogen fertilization and its possible future role, and even less about possible synergies of the mechanisms. </p>
+The “CO2 fertilization effect” of enhanced growth by plants with more CO2 has been shown to be primarily a temporary effect that saturates after a few years. Much of the range of IPCC predictions, shown in the <a href="{{ site.url }}/applet/"> applet</a>, is due to a range of assumptions about this process. There is less information about nitrogen fertilization and its possible future role, and even less about possible synergies of the mechanisms. </p>
 
 <p>
-In addition, the land may become a natural source of carbon to the atmosphere. Persistent drought may cause dramatic forest fires and large “natural” losses in tropical forests. There is also lots of organic carbon stored in the permafrosts at high latitudes and in soils. Warming temperatures will lead to thawing and increased microbial activity, and so CO2 will be released as this organic matter decomposes. The magnitudes of these reservoirs and their sensitivities to warming are important research questions at present. In the applet, the Land Uptake range crosses into the realm of a CO2 source primarily because of these effects. </p>
+In addition, the land may become a natural source of carbon to the atmosphere. Persistent drought may cause dramatic forest fires and large “natural” losses in tropical forests. There is also lots of organic carbon stored in the permafrosts at high latitudes and in soils. Warming temperatures will lead to thawing and increased microbial activity, and so CO2 will be released as this organic matter decomposes. The magnitudes of these reservoirs and their sensitivities to warming are important research questions at present. In the <a href="{{ site.url }}/applet/"> applet</a>, the Land Uptake range crosses into the realm of a CO2 source primarily because of these effects. </p>
 
 <p>
-It is very important that we better understand the mechanisms of land uptake. As understanding improves, predictions will be of greater assistance to carbon management decision-making. Improving mechanistic understanding is a central focus of the US-led North American Carbon Program and Europe’s CarboEurope. </p>
+It is very important that we better understand the mechanisms of land uptake. As understanding improves, predictions will be of greater assistance to carbon management decision-making. Improving mechanistic understanding is a central focus of the US-led <a href="www.nacarbon.org"> North American Carbon Program </a> and Europe’s <a href="http://www.carboeurope.org/"> CarboEurope</a>. </p>
 
 <h4> References: </h4>
 
 <p>
-Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 | doi:10.1038/415626. </p>
-
-<p>
-Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 
+  <a href="http://www.nature.com/nature/journal/v415/n6872/abs/415626a.html?lang=en">
+Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 | doi:10.1038/415626. 
+  </a>
 </p>
 
 <p>
+  <a href="http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.earth.35.031306.140057?cookieSet=1">
+Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 
+  </a>
+</p>
+
+<p>
+ <a href="http://onlinelibrary.wiley.com/doi/10.4319/lo.2009.54.6_part_2.2298/abstract">
 Tranvik, L. et al. (2009) Lakes and reservoirs as regulators of carbon cycling and climate. Limnol. Oceanogr., 54(6, part 2), 2009, 2298–2314.
+  </a>
 </p>
 
 </div>

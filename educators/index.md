@@ -16,8 +16,8 @@ Below are two lesson plans to accompany this website and that involve student us
 
 <h3> Other Resources </h3>
 
-<p> This resource has been selected by CLEAN – “Climate Literacy and Energy Awareness Network” with additional teaching ideas here 
+<p> This resource has been selected by <a href="http://cleanet.org/index.html"> CLEAN</a> – “Climate Literacy and Energy Awareness Network” with additional teaching ideas <a href="http://cleanet.org/resources/43024.html"> here</a>. 
 
 <br>
 
-CARBON CONNECTIONS also has ideas and interactive tools for teaching about the global carbon cycle. </p>
+<a href="http://carbonconnections.bscs.org/"> CARBON CONNECTIONS </a> also has ideas and interactive tools for teaching about the global carbon cycle. </p>
