@@ -115,7 +115,7 @@ In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon (PgC) per
 Evidence indicates that the rapid rise in emissions from developing countries, including China, are due to growth in international trade and a shift of developed countries toward service economies. The production of exports in developing countries is also an important driver of their increased emissions. </p>
 
 <p> 
-You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) on the <a href="http://unfccc.int/ghg_data/items/3800.php"> UNFCCC site </a>. You can also learn more about the spatial and temporal pattern of US emissions from <a href="http://vulcan.project.asu.edu/"> Project Vulcan. </a> </p>
+You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) on the <a href="http://unfccc.int/ghg_data/items/3800.php"> UNFCCC site</a>. You can also learn more about the spatial and temporal pattern of US emissions from <a href="http://vulcan.project.asu.edu/"> Project Vulcan. </a> </p>
 
 <h3> The Future of Fossil Fuels </h3>
 
@@ -152,36 +152,56 @@ Scientists expect that the ocean will eventually take up about 85% of anthropoge
 Currently, there is scientific debate about whether observations and models are already able to illustrate the declining ability of the ocean to absorb anthropogenic carbon [Canadell et al. 2007; LeQuere et al. 2009; Khatiwala et al. 2009; Knorr 2009]. </p>
 
 <p>
-Uncertainties in the ocean carbon uptake include the degree to which ocean circulation will change with climate warming and how this will modify carbon uptake. Model predictions suggest small future changes to the “biological pump” of carbon to the deep ocean, but these models do not account for potentially-important ecosystem shifts or for changes in carbon cycling in the near-surface ocean. Carbon cycling in coastal systems, including estuaries and marshes and the continental shelves is poorly quantified. These are areas of active research. The <a href="https://www.us-ocb.org/"> Ocean Carbon and Biogeochemistry program </a> promotes and coordinates these research activities in the US, as does <a href="http://www.carboocean.org/"> CarboOcean in Europe </a>. </p>
+Uncertainties in the ocean carbon uptake include the degree to which ocean circulation will change with climate warming and how this will modify carbon uptake. Model predictions suggest small future changes to the “biological pump” of carbon to the deep ocean, but these models do not account for potentially-important ecosystem shifts or for changes in carbon cycling in the near-surface ocean. Carbon cycling in coastal systems, including estuaries and marshes and the continental shelves is poorly quantified. These are areas of active research. The <a href="https://www.us-ocb.org/"> Ocean Carbon and Biogeochemistry program </a> promotes and coordinates these research activities in the US, as does <a href="http://www.carboocean.org/"> CarboOcean in Europe</a>. </p>
 
 <h3> The “Other CO2 Problem” = Ocean Acidification </h3>
 
-There are additional consequences to the ocean’s uptake of carbon. CO2 dissolved in seawater and forms carbonic acid, and so adding more CO2 to the water makes the ocean more acidic. From preindustrial times to present the pH of the ocean has declined 0.1 pH units, from 8.21 to 8.10, and it is likely to decline by another 0.3-0.4 pH units by the 2100, assuming atmospheric pCO2 is about 800 ppmv by that time. Acidification will damage coral reefs and likely place significant stress on species important to ocean food chain, particularly in the Southern Ocean. Scientists are working hard to better-understand the impacts on organisms and the integrated effects on ocean ecosystems. Here is a video from National Resources Defense Council on ocean acidification. For more detail, see these pages from NOAA and the Woods Hole Oceanographic Institution.
+There are additional consequences to the ocean’s uptake of carbon. CO2 dissolved in seawater and forms carbonic acid, and so adding more CO2 to the water makes the ocean more acidic. From preindustrial times to present the pH of the ocean has declined 0.1 pH units, from 8.21 to 8.10, and it is likely to decline by another 0.3-0.4 pH units by the 2100, assuming atmospheric pCO2 is about 800 ppmv by that time. Acidification will damage coral reefs and likely place significant stress on species important to ocean food chain, particularly in the Southern Ocean. Scientists are working hard to better-understand the impacts on organisms and the integrated effects on ocean ecosystems. Here is a <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification"> video </a> from National Resources Defense Council on ocean acidification. For more detail, see these pages from <a href="http://oceanacidification.noaa.gov/Home.aspx"> NOAA </a> and the <a href="http://www.whoi.edu/main/topic/ocean-acidification"> Woods Hole Oceanographic Institution</a>.
 
 <h4> References: </h4>
 
-Bopp L., et al. (2001) Potential impact of climate change on marine export production. Global Biogeochem. Cycles, 15, 1, doi:10.1029/1999GB001256. 
+<a href="http://www.agu.org/pubs/crossref/2001/1999GB001256.shtml"> Bopp L., et al. (2001) Potential impact of climate change on marine export production. Global Biogeochem. Cycles, 15, 1, doi:10.1029/1999GB001256.  </a>
 
 <p>
-Canadell et al. (2007) Contributions to accelerating atmospheric CO2 growth from economic activity, carbon intensity and efficiency of natural sinks. Proc. Natl. Acad. Sci. USA 104 18866-18870. doi:10.1073/pnas.0702737104. </p>
+<a href="http://www.pnas.org/content/104/47/18866.abstract">
+Canadell et al. (2007) Contributions to accelerating atmospheric CO2 growth from economic activity, carbon intensity and efficiency of natural sinks. Proc. Natl. Acad. Sci. USA 104 18866-18870. doi:10.1073/pnas.0702737104. </a>
+</p>
 
 <p>
-Doney, S.C., 2006: The dangers of ocean acidification. Scientific American, 294(3), March 2006, 58-65. </p>
+  <a href="http://www.precaution.org/lib/06/ocean_acidification_from_c02_060301.pdf">
+Doney, S.C., 2006: The dangers of ocean acidification. Scientific American, 294(3), March 2006, 58-65. 
+  </a>
+</p>
 
 <p>
-Doney, S.C., V.J. Fabry, R.A. Feely, J.A. Kleypas, 2009: Ocean acidification: the other CO2 problem, Ann. Rev. Mar. Sci., 1, 169-192, 10.1146/annurev.marine.010908.163834. </p>
+  <a href="http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.marine.010908.163834?prevSearch=%255Bauthor%253A%2BDoney%255D&searchHistoryKey=">
+Doney, S.C., V.J. Fabry, R.A. Feely, J.A. Kleypas, 2009: Ocean acidification: the other CO2 problem, Ann. Rev. Mar. Sci., 1, 169-192, 10.1146/annurev.marine.010908.163834. 
+  </a>
+</p>
 
 <p>
-Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . doi:10.1038/nature08526. </p>
+  <a href="http://www.nature.com/nature/journal/v462/n7271/full/nature08526.html">
+Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . doi:10.1038/nature08526. 
+  </a>
+</p>
 
 <p>
-Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836.doi:10.1038/ngeo689. </p>
+  <a href="http://www.nature.com/ngeo/journal/v2/n12/abs/ngeo689.html">
+Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836.doi:10.1038/ngeo689. 
+  </a>
+</p>
 
 <p>
-Sabine et al. (2004) The ocean sink for anthropogenic CO2. Vol. 305. no. 5682, pp. 367 – 371 doi: 10.1126/science.1097403. </p>
+  <a href="http://www.sciencemag.org/cgi/content/abstract/305/5682/367">
+Sabine et al. (2004) The ocean sink for anthropogenic CO2. Vol. 305. no. 5682, pp. 367 – 371 doi: 10.1126/science.1097403. 
+  </a>
+</p>
 
 <p>
-Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean pCO2, and net sea-air CO2 flux over the global oceans. DSR II, 56, 554-577. </p>
+  <a href="http://www.ldeo.columbia.edu/res/pi/CO2/carbondioxide/pages/air_sea_flux_2000.html">
+Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean pCO2, and net sea-air CO2 flux over the global oceans. DSR II, 56, 554-577. 
+  </a>
+</p>
 
 <a name="LandUse"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.land }})">
