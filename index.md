@@ -219,7 +219,7 @@ Uncertainty in estimates of the land use source are large in part because estima
 
 <h3> The Future of Land Use </h3>
 
-A variety of models were used to project future land use for the emissions scenarios use for the IPCC AR4 report (IPCC Special Report on Emission Scenarios, Chapter 6, Figure 6-6b). These models suggest that deforestation will peak by about 2025 and then gradually decline with time. This trend is primarily driven by reduced rates of population growth and improving agricultural productivity. Eventually, several scenarios predict that land use, currently a substantial source of CO2 to the atmosphere, will become a sink of CO2 from the atmosphere as forests grow back.
+A variety of models were used to project future land use for the emissions scenarios use for the IPCC AR4 report (<a href="http://www.ipcc.ch/ipccreports/sres/emission/index.php?idp=6-6"> IPCC Special Report on Emission Scenarios, Chapter 6, Figure 6-6b</a>). These models suggest that deforestation will peak by about 2025 and then gradually decline with time. This trend is primarily driven by reduced rates of population growth and improving agricultural productivity. Eventually, several scenarios predict that land use, currently a substantial source of CO2 to the atmosphere, will become a sink of CO2 from the atmosphere as forests grow back.
 
 <h3> What is the difference between Land Use and Land Uptake? </h3>
 
@@ -227,7 +227,7 @@ These terms are separated to clarify the direct impact of humans in forest clear
 
 <h4> References: </h4>
 
-<p> Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 </p>
+<p><a href="http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.earth.35.031306.140057"> Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 </a> </p>
 
 <a name="LandUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.land2 }})">
