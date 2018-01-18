@@ -115,17 +115,17 @@ In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon (PgC) per
 Evidence indicates that the rapid rise in emissions from developing countries, including China, are due to growth in international trade and a shift of developed countries toward service economies. The production of exports in developing countries is also an important driver of their increased emissions. </p>
 
 <p> 
-You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) at http://unfccc.int/ghg_data/items/3800.php . You can also learn more about the spatial and temporal pattern of US emissions from Project Vulcan. </p>
+You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) on the <a href="http://unfccc.int/ghg_data/items/3800.php"> UNFCCC site </a>. You can also learn more about the spatial and temporal pattern of US emissions from <a href="http://vulcan.project.asu.edu/"> Project Vulcan. </a> </p>
 
 <h3> The Future of Fossil Fuels </h3>
 
-The future of anthropogenic fossil fuel use depends on human decisions about energy use at the international scale. If we collectively choose to depend more and more on fossil fuels, our emissions will increase. If we choose to focus on efficiency and renewable energy sources, our emissions will not increase so quickly or even stabilize or decline. These are difficult choices with potentially dramatic implications for economies, politics, environment, and society from the local to the global scale. These issues are the focus of the activities under the United Nations Framework Convention on Climate Change (http://unfccc.int) such as the well-known Kyoto Protocol and the current negotiations for a successor to this action plan.
+The future of anthropogenic fossil fuel use depends on human decisions about energy use at the international scale. If we collectively choose to depend more and more on fossil fuels, our emissions will increase. If we choose to focus on efficiency and renewable energy sources, our emissions will not increase so quickly or even stabilize or decline. These are difficult choices with potentially dramatic implications for economies, politics, environment, and society from the local to the global scale. These issues are the focus of the activities under the <a href="https://cop23.unfccc.int/"> United Nations Framework Convention on Climate Change </a> such as the well-known Kyoto Protocol and the current negotiations for a successor to this action plan.
 
 <h4> References </h4>
 
-Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836. doi:10.1038/ngeo689.
+<a href="https://www.nature.com/articles/ngeo689"> Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836. doi:10.1038/ngeo689. </a>
 
-<p> Global Carbon Project </p>
+<p> <a href="http://www.globalcarbonproject.org/carbonbudget/"> Global Carbon Project </a> </p>
 
 <a name="OceanUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.ocean }})">
