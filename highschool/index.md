@@ -5,10 +5,8 @@ title: Carbon Cycle Lesson Plan for High School
 published: true
 ---
 
-# Carbon Cycle Lesson Plan for High School
 
 **Developed by:** Maurice Smith, Monona Grove High School, Monona, WI
-
 **In collaboration with:** Galen McKinley, University of Wisconsin – Madison
 © copyright 2011/2012
 
