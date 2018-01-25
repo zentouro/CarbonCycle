@@ -63,13 +63,13 @@ PROCEDURAL OUTLINE
 - Explain to your students that they will be involved with a simulation. Begin by reading them the [MEMO to Planetary Earth Council Members]({{site.baseurl}}/files/Applet_lesson_MiddleSchool_2011_FINAL.pdf).
 - Read the Simulation Instructions to students.
 
-Overview:
+	Overview:
 1. Planet Earth needs to install additional energy sources to supplement their current coal fired power plants because at the current time they are not providing enough energy for Earth’s consumers.
 2. According to the Universal Galactic Governing Alliance, the final decision concerning the new, supplemental energy source that must be added cannot significantly increase the amount of carbon dioxide in the atmosphere.
 3.  The Planetary Earth Governing Council has done the preliminary research and has narrowed down the additional energy source options to the following choices:
-		a. adding an additional coal fired power plant.
-		b. adding a wood burning power plant
-		c. adding a wind turbine farm
+		> a. adding an additional coal fired power plant.
+		> b. adding a wood burning power plant
+		> c. adding a wind turbine farm
 4. Your mission, should you choose to accept it is to analyze the amount of carbon dioxide
 5. emissions that would be given off from each energy option being considered.
 
