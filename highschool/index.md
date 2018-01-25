@@ -7,10 +7,10 @@ published: true
 
 
 **Developed by:** Maurice Smith, Monona Grove High School, Monona, WI
+
 **In collaboration with:** Galen McKinley, University of Wisconsin – Madison
 © copyright 2011/2012
 
-### High School Math/Science
 ### Carbon Cycle Applet Lesson Plans
 
 These lesson plans are written in a modular format designed to accommodate varying amounts of class time dedicated to the study of climate change. If you have only one to devote to the subject, you will want to start with Day Eight. If you have two days available for study, you should consider using the plans for Days Seven and Eight. If you have eight days available, use days One through Eight in that order, and so on.
