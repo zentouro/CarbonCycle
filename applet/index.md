@@ -21,3 +21,11 @@ Hit Run Projection for the impact on atmospheric CO2 (right graph) and the relat
 <iframe src="https://www.ssec.wisc.edu/sose/flex/CarbonCycle.html" width="950px" height="700px" align="center" frameborder="0px" marginwidth="0px" scrolling="none" border="0px" class="iframe-class"></iframe>
 
 </div>
+
+**Important Notes:**
+
+1. The blue areas mark predicted ranges from the global climate models used in the Intergovernmental Panel on Climate Change, Fourth Assessment Report (IPCC AR4, 2007).
+2. The estimated global temperature response is a rough scaling based upon average IPCC AR4 (2007) model sensitivity to atmospheric CO2. It is for illustrative purposes only.
+3. Output of atmospheric CO2 for input to the EdGCM (Educational Global Climate Model, edgcm.columbia.edu) can be obtained by clicking on the EdGCM button. Place this file in the file EdGCM/Input Forcings on your computer and you will then see the file under Setup Simulations – CO2 Trend – data file once you start EdGCM.
+
+
