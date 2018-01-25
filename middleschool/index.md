@@ -60,7 +60,7 @@ PROCEDURAL OUTLINE
 
 - Students go to the following website: [http://carboncycle.aos.wisc.edu/](http://carboncycle.aos.wisc.edu/)
 - Students complete the [GCC_worksheet]({{site.baseurl}}/files/Applet_lesson_MiddleSchool_2011_FINAL.pdf) on the GCC website and applet. The will need a “working” understanding of this material to complete the simulation to follow.
-- Explain to your students that they will be involved with a simulation. Begin by reading them the MEMO to Planetary Earth Council Members.
+- Explain to your students that they will be involved with a simulation. Begin by reading them the [MEMO to Planetary Earth Council Members]({{site.baseurl}}/files/Applet_lesson_MiddleSchool_2011_FINAL.pdf).
 - Read the Simulation Instructions to students.
 
 Overview:
