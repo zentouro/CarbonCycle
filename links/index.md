@@ -4,7 +4,7 @@ permalink: /links/
 title: Links
 published: true
 ---
-# Links
+
 
 ## More Carbon Cycle Links
 
@@ -64,6 +64,3 @@ National and International Research and Synthesis Activities
 - Finish, selected pages translated by Fijavan Brenk
 - Czech, selected pages translated by Barbora Lebedova
 - Spanish, full site translated by Juan Botella
-
-
-
