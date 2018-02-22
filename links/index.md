@@ -46,7 +46,7 @@ Climate Modeling for the Classroom
 - [EdGCM](http://edgcm.columbia.edu/) (Educational Global Climate Modeling)
 
 
-National and International Research and Synthesis Activities
+National and International Research and Syntheses
 
 - [Intergovernmental Panel on Climate Change](http://www.ipcc.ch/)
 - [US Global Change Research Program](http://www.globalchange.gov/)
