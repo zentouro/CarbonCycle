@@ -15,6 +15,8 @@ Project CO2 sources and sinks by dragging the green points on the left graph.
 <br>
 Hit Run Projection for the impact on atmospheric CO2 (right graph) and the relative fluxes (bottom graphic).
 
+<br>
+The applet is currently written in Flash. We are working on an update. For now, you may need to modify your security preferences to run it. 
 </p>
 
 
@@ -27,5 +29,3 @@ Hit Run Projection for the impact on atmospheric CO2 (right graph) and the relat
 1. The blue areas mark predicted ranges from the global climate models used in the Intergovernmental Panel on Climate Change, Fourth Assessment Report ([IPCC AR4, 2007](http://www.ipcc.ch/publications_and_data/publications_ipcc_fourth_assessment_report_synthesis_report.htm)).
 2. The estimated global temperature response is a rough scaling based upon average IPCC AR4 (2007) model sensitivity to atmospheric CO2. It is for illustrative purposes only.
 3. Output of atmospheric CO2 for input to the EdGCM ([Educational Global Climate Model](http://edgcm.columbia.edu/)) can be obtained by clicking on the EdGCM button. Place this file in the file EdGCM/Input Forcings on your computer and you will then see the file under Setup Simulations – CO2 Trend – data file once you start EdGCM.
-
-
