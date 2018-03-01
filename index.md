@@ -15,7 +15,7 @@ published: true
 
 <div>
 	
-	<div style="text-align:center> 
+	<div style="text-align:center"> 
 
 	<a href="#CarbonCycle" class="btn-inverse"> Carbon Cycle</a> 
     <a href="#Atmosphere" class="btn-inverse">Atmosphere</a> 
