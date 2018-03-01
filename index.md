@@ -138,6 +138,8 @@ The future of anthropogenic fossil fuel use depends on human decisions about ene
 
 CO2 dissolves in seawater, and then reacts with the water so that it disassociates into several ions. This disassociation means that the oceans can hold a lot of carbon – 85% of the active reservoir on Earth. Cold seawater can hold more CO2 than warm water, so waters that are cooling (i.e. poleward-moving western boundary currents) tend to take up carbon, and waters that are upwelling and warming (i.e. coastal zones and the tropics) tend to emit carbon. This is the basic reason for the pattern of the global sea-to-air CO2 flux as estimated by Takahashi et al. [2009] in the figure at right.
 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/takahashi_co2_flux.png" /> </div> 
+
 <p>
 The ocean is also teeming with plant life that photosynthesizes in the presence of nutrients and sunlight and makes organic matter out of the seawater CO2. Though much of the CO2 removed from seawater biologically is quickly recycled back to CO2 by the surface ocean food web, a small portion (< 1%) of the waste matter sinks down into the deep and enriches the abyss with carbon. This process moves carbon from the surface ocean to the deep ocean and stores carbon away from the atmospheric reservoir. Here’s a nice <a href="https://www.youtube.com/watch?v=H7sACT0Dx0Q"> video from NASA </a> on ocean phytoplankton and their global importance. </p>
 
