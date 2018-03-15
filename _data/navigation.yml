@@ -6,14 +6,16 @@
   excerpt:
   image:
 
-- title: Contact
-  url: /about/
+- title: links
+  url: /links/
 
 - title: For Educators
   url: /educators/
 
-- title: links
-  url: /links/
+  - title: Contact
+  url: /about/
+
+
 
 
 

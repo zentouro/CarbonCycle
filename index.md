@@ -70,7 +70,7 @@ These flux estimates are updated annually by the <a href = "http://www.globalcar
 
 <p style="font-size:60%;"> <i> IPCC AR4 (2007) Fig 7.3. The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr –1 : pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red (modified from Sarmiento and Gruber, 2006, with changes in pool sizes from Sabine et al., 2004a). The net terrestrial loss of –39 GtC is inferred from cumulative fossil fuel emissions minus atmospheric increase minus ocean storage. The loss of –140 GtC from the ‘vegetation, soil and detritus’ compartment represents the cumulative emissions from land use change (Houghton, 2003), and requires a terrestrial biosphere sink of 101 GtC (in Sabine et al., given only as ranges of –140 to –80 GtC and 61 to 141 GtC, respectively; other uncertainties given in their Table 1). Net anthropogenic exchanges with the atmosphere are from Column 5 ‘AR4’ in Table 7.1. Gross fluxes generally have uncertainties of more than ±20% but fractional amounts have been retained to achieve overall balance when including estimates in fractions of GtC yr–1 for riverine transport, weathering, deep ocean burial, etc. ‘GPP’ is annual gross (terrestrial) primary production. Atmospheric carbon content and all cumulative fluxes since 1750 are as of end 1994. </i> </p>
 
-<h3> References </h3>
+<h4> References </h4>
 
 <p>
 Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013).
@@ -148,61 +148,71 @@ The future of anthropogenic fossil fuel use depends on human decisions about ene
 
 <h3> The Basics </h3>
 
-CO2 dissolves in seawater, and then reacts with the water so that it disassociates into several ions. This disassociation means that the oceans can hold a lot of carbon – 85% of the active reservoir on Earth. Cold seawater can hold more CO2 than warm water, so waters that are cooling (i.e. poleward-moving western boundary currents) tend to take up carbon, and waters that are upwelling and warming (i.e. coastal zones and the tropics) tend to emit carbon. This is the basic reason for the pattern of the global sea-to-air CO2 flux as estimated by Takahashi et al. [2009] in the figure at right.
+CO2 dissolves in seawater, and then reacts with the water so that it dissociates into several ions. This disassociation means that the oceans can hold a lot of carbon – 85% of the active reservoir on Earth. Cold seawater can hold more CO2 than warm water, so waters that are cooling (i.e. poleward-moving western boundary currents) tend to take up carbon, and waters that are upwelling and warming (i.e. coastal zones and the tropics) tend to emit carbon. This is the basic reason for the pattern of the global sea-to-air CO2 flux, as shown in this figure.
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/takahashi_co2_flux.png" /> </div> 
 
 <p>
-The ocean is also teeming with plant life that photosynthesizes in the presence of nutrients and sunlight and makes organic matter out of the seawater CO2. Though much of the CO2 removed from seawater biologically is quickly recycled back to CO2 by the surface ocean food web, a small portion (< 1%) of the waste matter sinks down into the deep and enriches the abyss with carbon. This process moves carbon from the surface ocean to the deep ocean and stores carbon away from the atmospheric reservoir. Here’s a nice <a href="https://www.youtube.com/watch?v=H7sACT0Dx0Q"> video from NASA </a> on ocean phytoplankton and their global importance. </p>
+The ocean is also teeming with plant life that photosynthesizes in the presence of nutrients and sunlight and makes organic matter out of the seawater CO2. Though much of the CO2 removed from seawater biologically is quickly recycled back to CO2 by the surface ocean food web, a small portion (less than 1%) of the waste matter sinks down into the deep and enriches the abyss with carbon. This process moves carbon from the surface ocean to the deep ocean and stores carbon away from the atmospheric reservoir.  Here’s a <a href="https://www.youtube.com/watch?v=H7sACT0Dx0Q"> video from NASA</a> on ocean phytoplankton and their global importance. </p>
+
 
 <p>
-As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans. Of all the CO2 put into the atmosphere by humans since pre-industrial times, the ocean has taken up about half (118 +- 19 PgC/yr by 1994, Sabine et al. 2004). This carbon is almost all in the surface 1km of ocean and has not penetrated any deeper because the ocean takes about 1000 years to mix completely. For the 1990’s, ocean models and a variety of data-based approaches suggest that the ocean sink was 2.2+-0.4 PgC/yr. </p>
+As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans. If not for the ocean, the atmospheric concentration of CO2 would be about 80ppm higher than at present (155 PgC, Ciais et al. 2013, Khatiwala et al. 2009, 2013). Of all fossil fuel emissions to the atmosphere (375PgC), the ocean has cumulatively mitigated 41% (McKinley et al. 2017). This carbon is almost all in the surface 1km of ocean and has not penetrated any deeper because the ocean takes about 1000 years to mix completely. For more illustrations of the ocean carbon sink over time, check out these animations from the <a href="http://darchive.mblwhoilibrary.org/handle/1912/7670.1"> Ocean Carbon and Biogeochemistry Program. </a> </p>
 
 <h3> The Future of Ocean Carbon Uptake </h3>
 
-Scientists expect that the ocean will eventually take up about 85% of anthropogenic CO2, but because the ocean takes ~1000 years to mix, this process will take many hundreds to thousands of years. Through 2100, an increasing sink is expected because the increasing CO2 in the atmosphere will drive more carbon into the ocean by the solubility mechanism. However, because of the chemistry of carbon in seawater, the ability of the ocean to absorb carbon decreases as the concentration increases. Anthropogenic forcings may slow down the large-scale overturning circulation of the ocean and reduce the efficiency of the ocean sink. Predictive models suggest significant regional changes in biological removal of carbon to the deep ocean, but a small net effect on globally-integrated ocean carbon uptake.
+Scientists expect that the ocean will eventually take up about 85% of anthropogenic CO2, but because the ocean takes ~1000 years to mix, this process will take many hundreds to thousands of years. Through the middle of the 21st century, the carbon sink is expected to grow. This will occur mostly because the increasing CO2 in the atmosphere will drive more carbon into the ocean by the solubility mechanism. However, because of the chemistry of carbon in seawater, the ability of the ocean to absorb carbon decreases as the concentration increases. Anthropogenic forcings may slow down the large-scale overturning circulation of the ocean and reduce the efficiency of the ocean sink. Climate models suggest significant regional changes in biological removal of carbon to the deep ocean, but a small net effect on globally-integrated ocean carbon uptake.
+<p>
+It is clear that the ocean sink is quite variable in space and time. For example, multiple lines of evidence indicate that the global sink weakened in the decade of the 1990s, and then strengthened in the decade of the 2000s [Fay and McKinley, 2013; DeVries et al. 2017; Landschutzer et al. 2015; Ritter et al. 2017].  Though it is clear that ocean circulation is the primary driver of these changes, detailed understanding is limited in large part because of limited ocean observations [Peters et al, 2017]. </p>
 
 <p>
-Currently, there is scientific debate about whether observations and models are already able to illustrate the declining ability of the ocean to absorb anthropogenic carbon [Canadell et al. 2007; LeQuere et al. 2009; Khatiwala et al. 2009; Knorr 2009]. </p>
-
-<p>
-Uncertainties in the ocean carbon uptake include the degree to which ocean circulation will change with climate warming and how this will modify carbon uptake. Model predictions suggest small future changes to the “biological pump” of carbon to the deep ocean, but these models do not account for potentially-important ecosystem shifts or for changes in carbon cycling in the near-surface ocean. Carbon cycling in coastal systems, including estuaries and marshes and the continental shelves is poorly quantified. These are areas of active research. The <a href="https://www.us-ocb.org/"> Ocean Carbon and Biogeochemistry program </a> promotes and coordinates these research activities in the US, as does <a href="http://www.carboocean.org/"> CarboOcean in Europe</a>. </p>
+In the US, the Ocean Carbon and Biogeochemistry (OCB https://www.us-ocb.org/) program coordinates research and education efforts on ocean carbon uptake. See a short film <a href="https://www.us-ocb.org/new-ocb-short-film/">here</a> that summarizes their carbon research portfolio. International efforts look to the International Ocean Carbon Coordinating Project <a href="http://www.ioccp.org/"> (IOCCP) </a></p>
 
 <h3> The “Other CO2 Problem” = Ocean Acidification </h3>
 
-There are additional consequences to the ocean’s uptake of carbon. CO2 dissolved in seawater and forms carbonic acid, and so adding more CO2 to the water makes the ocean more acidic. From preindustrial times to present the pH of the ocean has declined 0.1 pH units, from 8.21 to 8.10, and it is likely to decline by another 0.3-0.4 pH units by the 2100, assuming atmospheric pCO2 is about 800 ppmv by that time. Acidification will damage coral reefs and likely place significant stress on species important to ocean food chain, particularly in the Southern Ocean. Scientists are working hard to better-understand the impacts on organisms and the integrated effects on ocean ecosystems. Here is a <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification"> video </a> from National Resources Defense Council on ocean acidification. For more detail, see these pages from <a href="http://oceanacidification.noaa.gov/Home.aspx"> NOAA </a> and the <a href="http://www.whoi.edu/main/topic/ocean-acidification"> Woods Hole Oceanographic Institution</a>.
+There are additional consequences to the ocean’s uptake of carbon. CO2 dissolved in seawater and forms carbonic acid, and so adding more CO2 to the water makes the ocean more acidic. From preindustrial times to present the pH of the ocean has declined 0.1 pH units, from 8.21 to 8.10, and it is likely to decline by another 0.3-0.4 pH units by the 2100, assuming atmospheric pCO2 is about 800 ppmv by that time. Acidification will damage coral reefs and likely place significant stress on species important to ocean food chain, particularly in the Southern Ocean. Scientists are working hard to better-understand the impacts on organisms and the integrated effects on ocean ecosystems. 
+<p>
+Here is a <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification"> video </a> from National Resources Defense Council on ocean acidification. For more detail, see these pages from <a href="http://oceanacidification.noaa.gov/Home.aspx"> NOAA </a> and the <a href="http://www.whoi.edu/main/topic/ocean-acidification"> Woods Hole Oceanographic Institution</a>.
+</p>
 
 <h4> References: </h4>
 
-<a href="http://www.agu.org/pubs/crossref/2001/1999GB001256.shtml"> Bopp L., et al. (2001) Potential impact of climate change on marine export production. Global Biogeochem. Cycles, 15, 1, doi:10.1029/1999GB001256.  </a>
+Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013).
 
 <p>
-<a href="http://www.pnas.org/content/104/47/18866.abstract">
-Canadell et al. (2007) Contributions to accelerating atmospheric CO2 growth from economic activity, carbon intensity and efficiency of natural sinks. Proc. Natl. Acad. Sci. USA 104 18866-18870. doi:10.1073/pnas.0702737104. </a>
+DeVries, T., Holzer, M. & Primeau, F. Recent increase in oceanic carbon uptake driven by weaker upper-ocean overturning. Nature 542, 215–218 (2017).
+</p>
+
+<p>	
+<a href="http://www.nature.com/nature/journal/v462/n7271/full/nature08526.html">
+Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . doi:10.1038/nature08526. </a>
 </p>
 
 <p>
-  <a href="http://www.precaution.org/lib/06/ocean_acidification_from_c02_060301.pdf">
-Doney, S.C., 2006: The dangers of ocean acidification. Scientific American, 294(3), March 2006, 58-65. 
+Khatiwala, S. et al. Global ocean storage of anthropogenic carbon. Biogeosciences 10, 2169–2191 (2013).
+</p>
+
+<p>
+Landschützer, P. et al. The reinvigoration of the Southern Ocean carbon sink. Science 349, 1221–1224 (2015).
+</p>
+
+<p>
+  <a href="https://www.earth-syst-sci-data-discuss.net/essd-2017-123/">
+Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017. 
   </a>
 </p>
 
 <p>
-  <a href="http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.marine.010908.163834?prevSearch=%255Bauthor%253A%2BDoney%255D&searchHistoryKey=">
-Doney, S.C., V.J. Fabry, R.A. Feely, J.A. Kleypas, 2009: Ocean acidification: the other CO2 problem, Ann. Rev. Mar. Sci., 1, 169-192, 10.1146/annurev.marine.010908.163834. 
-  </a>
+McKinley, G. A., Fay, A. R., Lovenduski, N. S. & Pilcher, D. J. Natural Variability and Anthropogenic Trends in the Ocean Carbon Sink. Annu. Rev. Marine. Sci. 9, 125–150 (2017).
+
 </p>
 
 <p>
-  <a href="http://www.nature.com/nature/journal/v462/n7271/full/nature08526.html">
-Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . doi:10.1038/nature08526. 
-  </a>
+Peters, G. P. et al. Towards real-time verification of CO2 emissions. Nature Climate Change 7, 848–850 (2017).
 </p>
 
 <p>
-  <a href="http://www.nature.com/ngeo/journal/v2/n12/abs/ngeo689.html">
-Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836.doi:10.1038/ngeo689. 
-  </a>
+Ritter, R. et al. Observation-Based Trends of the Southern Ocean Carbon Sink. Geophys Res Lett 44, 12,339–12,348 (2017).
 </p>
 
 <p>
