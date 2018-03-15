@@ -53,7 +53,9 @@ From 2007-2016, humans added 10.7×10^15 grams of carbon as CO2 (1015 grams of c
 
  Carbon is transferred between CO2 and living or dead organic material by the very basic photosynthesis / respiration reaction (shown here in simplified form).
 
+<div style="text-align:center">
 <p> CO2+H2O+energy <=> CH2O + O2 </p>
+</div>
 
 <p> When this reaction proceeds to the right, it is the fixation of carbon to organic matter by plants via photosynthesis; and when it proceeds to the left, it is respiration or combustion of that organic matter. Fossil fuels are the remnants of dead organic matter that lived millions of years ago. </p>
 
@@ -61,10 +63,28 @@ From 2007-2016, humans added 10.7×10^15 grams of carbon as CO2 (1015 grams of c
 
 The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the IPCC AR4 report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC: Petagram of Carbon) and the major fluxes in GtC/yr. The numbers shown are the best estimates for the 1990’s.
 
+These flux estimates are updated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project  (LeQuere et al. 2017) and the state of carbon cycle science is reviewed in each IPCC report (Ciais et. al 2013).
+
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/figure-7-3-l.png" /> </div> 
 
 <p style="font-size:60%;"> <i> IPCC AR4 (2007) Fig 7.3. The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr –1 : pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red (modified from Sarmiento and Gruber, 2006, with changes in pool sizes from Sabine et al., 2004a). The net terrestrial loss of –39 GtC is inferred from cumulative fossil fuel emissions minus atmospheric increase minus ocean storage. The loss of –140 GtC from the ‘vegetation, soil and detritus’ compartment represents the cumulative emissions from land use change (Houghton, 2003), and requires a terrestrial biosphere sink of 101 GtC (in Sabine et al., given only as ranges of –140 to –80 GtC and 61 to 141 GtC, respectively; other uncertainties given in their Table 1). Net anthropogenic exchanges with the atmosphere are from Column 5 ‘AR4’ in Table 7.1. Gross fluxes generally have uncertainties of more than ±20% but fractional amounts have been retained to achieve overall balance when including estimates in fractions of GtC yr–1 for riverine transport, weathering, deep ocean burial, etc. ‘GPP’ is annual gross (terrestrial) primary production. Atmospheric carbon content and all cumulative fluxes since 1750 are as of end 1994. </i> </p>
+
+<h3> References </h3>
+
+<p>
+Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013).
+</p>
+
+<p>
+Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017.
+<a href = "https://www.earth-syst-sci-data-discuss.net/essd-2017-123/" > https://www.earth-syst-sci-data-discuss.net/essd-2017-123/ </a>
+</p>
+
+<p>
+Sarmiento, J.L. and N. Gruber (2002) Sinks for anthropogenic carbon. Physics Today 55, 30-36. <a href = "http://physicstoday.scitation.org/doi/10.1063/1.1510279" > http://physicstoday.scitation.org/doi/10.1063/1.1510279 </a>
+</p>
+
 
 <a name="Atmosphere"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.atmosphere }})">
@@ -74,20 +94,19 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 </div><!-- /.page-lead -->
 
 <p>
-	In 1958, Charles D. Keeling began taking measurements of atmospheric CO2 at Mauna Loa, Hawaii. One can see both the seasonal cycle, dominated by the annual cycle of photosynthesis and respiration in the terrestrial biosphere of the Northern Hemisphere, as well as the clear upward trend.
+	In 1958, Charles D. Keeling began taking measurements of atmospheric CO2 at Mauna Loa, Hawaii. One can see both the seasonal cycle, dominated by the annual cycle of photosynthesis and respiration in the terrestrial biosphere of the Northern Hemisphere, as well as the clear upward trend. Learn more about Keeling's data from this <a href = "https://www.youtube.com/watch?v=0Z8g-smE2sk"> short video </a>
 
 </p>
  
 <div style="text-align:center"> <img src = "{{site.baseurl}}/images/co2_data_mlo.png" /> </div> 
 
 <p>
-	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from <a href="https://www.esrl.noaa.gov/gmd/ccgg/trends/"> NOAA </a>. NOAA has also produced this <a href="https://www.youtube.com/watch?v=H2mZyCblxS4"> great visualization </a> of our current observations and the past history of CO2 in the atmosphere. 
-
+	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from <a href="https://www.esrl.noaa.gov/gmd/ccgg/trends/"> NOAA </a>. NOAA has also produced this <a href="https://www.youtube.com/watch?v=gH6fQh9eAQE"> great visualization </a> of current observations across latitudes and puts them in context with historical CO2 records that stretch back to the ice ages. 
 </p>
 
 <p>
 
-	As explained in the following tabs, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
+As explained below, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
 
 </p>
 <a name="FossilFuels"> </a>
