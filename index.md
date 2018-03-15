@@ -118,24 +118,24 @@ As explained below, CO2 is accumulating in the atmosphere because of human activ
 
 <h3> The Basics </h3> 
 
-Burning fossil fuels puts carbon into the atmosphere. Other smaller sources include industrial processes such as cement manufacture and natural gas flaring. Fossil fuels provide most of the energy that supports human transportation, electricity production, heating and cooling of buildings, and industrial activity. Oil used to be the dominant fossil fuel, but as of 2008, coal is dominant (40% to oil’s 37%).
+Burning fossil fuels puts carbon into the atmosphere. Other smaller sources include industrial processes such as cement manufacture and natural gas flaring. Fossil fuels provide most of the energy that supports human transportation, electricity production, heating and cooling of buildings, and industrial activity. Oil used to be the dominant fossil fuel, but as of 2016, coal is dominant (40% to oil’s 34%) and the share from natural gas is steadily growing (19% in 2016).
 
 <p>
-In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon (PgC) per year, and in from 2000-2008, 7.7 PgC/yr. Over 2000-2008, emissions increased by 3.4% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase is due primarily to a doubling of emissions from developing countries. Emissions in 2008 are consistent with the most intensive fossil fuel emission projections used in the IPCC AR4 report (A1FI scenario). </p>
+In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon (PgC) per year, and in from 2007-2016, 9.4 PgC/yr. Over 2000-2009, emissions increased by 3.3% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase was primarily due to growing emissions from developing countries. From 2012-2016, the rate of emissions growth substantially slowed. Nonetheless, emissions over 2007-2016 are largely are consistent with the most intensive fossil fuel emission projections used in the IPCC AR5 report (RCP8.5).   </p>
 
 <p>
 Evidence indicates that the rapid rise in emissions from developing countries, including China, are due to growth in international trade and a shift of developed countries toward service economies. The production of exports in developing countries is also an important driver of their increased emissions. </p>
 
 <p> 
-You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) on the <a href="http://unfccc.int/ghg_data/items/3800.php"> UNFCCC site</a>. You can also learn more about the spatial and temporal pattern of US emissions from <a href="http://vulcan.project.asu.edu/"> Project Vulcan. </a> </p>
+You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) on the <a href="http://unfccc.int/ghg_data/items/3800.php"> UNFCCC site</a>.</p>
 
 <h3> The Future of Fossil Fuels </h3>
 
-The future of anthropogenic fossil fuel use depends on human decisions about energy use at the international scale. If we collectively choose to depend more and more on fossil fuels, our emissions will increase. If we choose to focus on efficiency and renewable energy sources, our emissions will not increase so quickly or even stabilize or decline. These are difficult choices with potentially dramatic implications for economies, politics, environment, and society from the local to the global scale. These issues are the focus of the activities under the <a href="https://cop23.unfccc.int/"> United Nations Framework Convention on Climate Change </a> such as the well-known Kyoto Protocol and the current negotiations for a successor to this action plan.
+The future of anthropogenic fossil fuel use depends on human decisions about energy use at the international scale. If we collectively choose to depend more and more on fossil fuels, our emissions will increase. If we choose to focus on efficiency and renewable energy sources, our emissions will not increase so quickly or even stabilize or decline. These are difficult choices with potentially dramatic implications for economies, politics, environment, and society from the local to the global scale. These issues are the focus of the activities under the <a href="https://cop23.unfccc.int/"> United Nations Framework Convention on Climate Change </a> with the most significant recent development being the 2015 Paris Agreement. Current activities focus on the implementation of this plan. 
 
 <h4> References </h4>
 
-<a href="https://www.nature.com/articles/ngeo689"> Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836. doi:10.1038/ngeo689. </a>
+<a href="https://www.earth-syst-sci-data-discuss.net/essd-2017-123/"> Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017. </a>
 
 <p> <a href="http://www.globalcarbonproject.org/carbonbudget/"> Global Carbon Project </a> </p>
 
