@@ -8,14 +8,14 @@ published: true
 This carbon cycle education project is led by:
 
 Professor Galen A. McKinley
-Atmospheric and Oceanic Sciences and Center for Climatic Research
-University of Wisconsin – Madison
-Madison, WI USA
+Columbia University 
+Department of Earth and Environmental Sciences
+and 
+Lamont Doherty Earth Observatory
+New York, USA
 
-mckinley.aos.wisc.edu
+email: mckinley at ldeo.columbia.edu
 
-email: gamckinley at wisc.edu
+The applet was developed by Professor McKinley in collaboration with Tommy Jasmin and Tom Whittaker at University of Wisconsin-Madison. Miriam Nielsen and Dierk Polzin designed the website, and Juan Botella translated it to Spanish. 
 
-The applet was developed by Professor McKinley in collaboration with Tommy Jasmin and Tom Whittaker of the UW-Madison Space Science and Engineering Center. Dierk Polzin designed the website, and Juan Botella created the banner.
-
-We thank NASA for funding this project. 
+We thank NASA for funding this project.
