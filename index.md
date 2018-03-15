@@ -290,21 +290,26 @@ It is very important that we better understand the mechanisms of land uptake. As
 <h4> References: </h4>
 
 <p>
+Benway, H., et al. 2016. A Science Plan for Carbon Cycle Research in North American Coastal Waters. Report of the Coastal CARbon Synthesis (CCARS) community workshop, August 19-21, 2014, Ocean Carbon and Biogeochemistry Program and North American Carbon Program, 84 pp. <a href="http://www.us-ocb.org/wp-content/uploads/sites/43/2017/01/CCARS_Sci_Plan_DRAFT.pdf">Download </a>
+</p>
+
+<p>
   <a href="http://www.nature.com/nature/journal/v415/n6872/abs/415626a.html?lang=en">
 Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 | doi:10.1038/415626. 
   </a>
 </p>
 
 <p>
-  <a href="http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.earth.35.031306.140057?cookieSet=1">
-Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 
-  </a>
+Golub, M., Desai, A. R., McKinley, G. A., Remucal, C. K. & Stanley, E. H. Large Uncertainty in Estimating pCO2 from Carbonate Equilibria in Lakes. J Geophys Res-Biogeo, doi:10.1002/2017JG003794 (2017). 
 </p>
 
 <p>
- <a href="http://onlinelibrary.wiley.com/doi/10.4319/lo.2009.54.6_part_2.2298/abstract">
-Tranvik, L. et al. (2009) Lakes and reservoirs as regulators of carbon cycling and climate. Limnol. Oceanogr., 54(6, part 2), 2009, 2298–2314.
-  </a>
+Raymond, P. A. et al. Global carbon dioxide emissions from inland waters. Nature 503, 355–359, doi:10.1038/nature12760 (2013).
 </p>
+
+<p>
+Schuur, E. A. G. et al. Climate change and the permafrost carbon feedback. Nature 520, 171–179, doi:10.1038/nature14338 (2015).
+</p>
+
 
 </div>
