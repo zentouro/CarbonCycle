@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /CarbonCycle/
+permalink: /
 image:
   feature: mangrove.jpg
   forest: forestlights.jpg
