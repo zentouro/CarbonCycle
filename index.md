@@ -2,8 +2,8 @@
 layout: home
 permalink: /
 image:
-  feature: mangrove.jpg
-  forest: forestlights.jpg
+  feature: productivity.jpg
+  forest: mangrove.jpg
   atmosphere: atmos.jpg
   fossilfuels: coalmine.jpg
   ocean: perpetual.jpg
