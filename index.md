@@ -6,7 +6,7 @@ image:
   forest: forestlights.jpg
   atmosphere: atmos.jpg
   fossilfuels: coalmine.jpg
-  ocean: ocean.jpg
+  ocean: perpetual.jpg
   land: landUse.jpg
   land2: oldGrowth.jpg
 published: true
