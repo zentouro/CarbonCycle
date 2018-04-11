@@ -8,6 +8,6 @@
     {% endif %}
     <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
   {% endfor %}
-  <li> <div style="text-align:right">  <a href= "{{ site.url }}/CarbonCycle-es"> <img src = "{{ site.url }}/images/spanish_flag.png"> </a> </div></li>
+  <li> <div style="text-align:right">  <a href= "{{ base.url }}/CarbonCycle-es"> <img src ="{{ site.url }}/images/spanish_flag.png" alt="Versión Espanola"> </a> </div></li>
 </ul>
 
