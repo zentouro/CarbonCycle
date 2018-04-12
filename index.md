@@ -70,8 +70,9 @@ These flux estimates are updated annually by the <a href = "http://www.globalcar
 
 <p style="font-size:60%;"> <i> IPCC AR4 (2007) Fig 7.3. The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr –1 : pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red (modified from Sarmiento and Gruber, 2006, with changes in pool sizes from Sabine et al., 2004a). The net terrestrial loss of –39 GtC is inferred from cumulative fossil fuel emissions minus atmospheric increase minus ocean storage. The loss of –140 GtC from the ‘vegetation, soil and detritus’ compartment represents the cumulative emissions from land use change (Houghton, 2003), and requires a terrestrial biosphere sink of 101 GtC (in Sabine et al., given only as ranges of –140 to –80 GtC and 61 to 141 GtC, respectively; other uncertainties given in their Table 1). Net anthropogenic exchanges with the atmosphere are from Column 5 ‘AR4’ in Table 7.1. Gross fluxes generally have uncertainties of more than ±20% but fractional amounts have been retained to achieve overall balance when including estimates in fractions of GtC yr–1 for riverine transport, weathering, deep ocean burial, etc. ‘GPP’ is annual gross (terrestrial) primary production. Atmospheric carbon content and all cumulative fluxes since 1750 are as of end 1994. </i> </p>
 
-
-<h4> References </h4>
+<h3> test </h3>
+<h4> test </h4>
+<h5> References </h5>
 
 <p style="font-size:80%;">
 Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013).  
