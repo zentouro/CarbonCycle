@@ -63,13 +63,14 @@ From 2007-2016, humans added 10.7×10^15 grams of carbon as CO2 (1015 grams of c
 
 The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the IPCC AR4 report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC: Petagram of Carbon) and the major fluxes in GtC/yr. The numbers shown are the best estimates for the 1990’s.
 
-These flux estimates are updated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project  (LeQuere et al. 2017) and the state of carbon cycle science is reviewed in each IPCC report (Ciais et. al 2013).
+These flux estimates are updated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project </a> (LeQuere et al. 2017) and the state of carbon cycle science is reviewed in each IPCC report (Ciais et. al 2013).
 
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/figure-7-3-l.png" /> </div> 
 
 <p style="font-size:60%;"> <i> IPCC AR4 (2007) Fig 7.3. The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr –1 : pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red (modified from Sarmiento and Gruber, 2006, with changes in pool sizes from Sabine et al., 2004a). The net terrestrial loss of –39 GtC is inferred from cumulative fossil fuel emissions minus atmospheric increase minus ocean storage. The loss of –140 GtC from the ‘vegetation, soil and detritus’ compartment represents the cumulative emissions from land use change (Houghton, 2003), and requires a terrestrial biosphere sink of 101 GtC (in Sabine et al., given only as ranges of –140 to –80 GtC and 61 to 141 GtC, respectively; other uncertainties given in their Table 1). Net anthropogenic exchanges with the atmosphere are from Column 5 ‘AR4’ in Table 7.1. Gross fluxes generally have uncertainties of more than ±20% but fractional amounts have been retained to achieve overall balance when including estimates in fractions of GtC yr–1 for riverine transport, weathering, deep ocean burial, etc. ‘GPP’ is annual gross (terrestrial) primary production. Atmospheric carbon content and all cumulative fluxes since 1750 are as of end 1994. </i> </p>
 
+<div style="font-size:70%;">
 <h4> References </h4>
 
 <p>
@@ -82,8 +83,10 @@ Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discus
 </p>
 
 <p>
-Sarmiento, J.L. and N. Gruber (2002) Sinks for anthropogenic carbon. Physics Today 55, 30-36. <a href = "http://physicstoday.scitation.org/doi/10.1063/1.1510279" > http://physicstoday.scitation.org/doi/10.1063/1.1510279 </a>
+Sarmiento, J.L. and N. Gruber (2002) Sinks for anthropogenic carbon. Physics Today 55, 30-36. <a href = "http://physicstoday.scitation.org/doi/10.1063/1.1510279"> http://physicstoday.scitation.org/doi/10.1063/1.1510279 </a>
 </p>
+
+</div>
 
 
 <a name="Atmosphere"> </a>
