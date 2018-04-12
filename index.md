@@ -74,19 +74,15 @@ These flux estimates are updated annually by the <a href = "http://www.globalcar
 <h4> References </h4>
 
 <p style="font-size:70%;">
-Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013).
-</p>
+Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013).  
 
-<p style="font-size:70%;">
 Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017.
-<a href = "https://www.earth-syst-sci-data-discuss.net/essd-2017-123/" > https://www.earth-syst-sci-data-discuss.net/essd-2017-123/ </a>
-</p>
+<a href = "https://www.earth-syst-sci-data-discuss.net/essd-2017-123/" > https://www.earth-syst-sci-data-discuss.net/essd-2017-123/ </a>  
 
-<p style="font-size:70%;">
 Sarmiento, J.L. and N. Gruber (2002) Sinks for anthropogenic carbon. Physics Today 55, 30-36. <a href = "http://physicstoday.scitation.org/doi/10.1063/1.1510279"> http://physicstoday.scitation.org/doi/10.1063/1.1510279 </a>
 </p>
 
-</p>
+
 
 
 <a name="Atmosphere"> </a>
