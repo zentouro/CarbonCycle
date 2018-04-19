@@ -7,7 +7,7 @@ published: true
 
 This carbon cycle education project is led by:
 
-Professor Galen A. McKinley
+[Professor Galen A. McKinley]({{site.baseurl}})
 Columbia University 
 Department of Earth and Environmental Sciences
 and 

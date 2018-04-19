@@ -24,7 +24,6 @@ published: true
     <a href="#LandUse" class="btn-inverse">Land Use</a> 
     <a href="#LandUptake" class="btn-inverse">Land Uptake</a> 
       
-
 	</div>
 
 <h3>Carbon and the Global Carbon Cycle </h3>
@@ -39,15 +38,13 @@ published: true
 
 <p> From 2007-2016, humans added 10.7×10^15 grams of carbon as CO2 (1015 grams of carbon = 1 PgC) to the atmosphere each year, primarily by burning fossil fuels (~9.4 PgC/yr) and also from land use change (~1.3 PgC/yr). Best estimates indicate that the ocean took up 22% of this carbon (~2.4 PgC/yr), and the land biosphere absorbed 28% (~3.0 PgC/yr), while 6% of the estimated emissions remain unaccounted for in the sink reservoirs (LeQuere et al. 2017). Thus, over this recent decade, only ~50% of the emitted carbon remained in the atmosphere to cause climate warming. Though uncertainties remain in the global budget, it is clear that natural processes are significantly damping the rate of carbon accumulation in the atmosphere. Future climate warming depends on both CO2 sources from human emissions and CO2 sinks from natural sinks in the ocean and the terrestrial biosphere. </p>
 
-<p> </p>
-
 <a name="CarbonCycle"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.forest }})">
       <div class="wrap page-lead-content">
          <h1> Carbon Cycle </h1>
       </div><!-- /.page-lead-content --> 
 
-</div><!-- /.page-lead -->
+</div> <!-- /.page-lead -->
 
 <h3> The Basics </h3>
 
@@ -71,7 +68,7 @@ published: true
 <p style="font-size:60%;"> <i> IPCC AR4 (2007) Fig 7.3. The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr –1 : pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red (modified from Sarmiento and Gruber, 2006, with changes in pool sizes from Sabine et al., 2004a). The net terrestrial loss of –39 GtC is inferred from cumulative fossil fuel emissions minus atmospheric increase minus ocean storage. The loss of –140 GtC from the ‘vegetation, soil and detritus’ compartment represents the cumulative emissions from land use change (Houghton, 2003), and requires a terrestrial biosphere sink of 101 GtC (in Sabine et al., given only as ranges of –140 to –80 GtC and 61 to 141 GtC, respectively; other uncertainties given in their Table 1). Net anthropogenic exchanges with the atmosphere are from Column 5 ‘AR4’ in Table 7.1. Gross fluxes generally have uncertainties of more than ±20% but fractional amounts have been retained to achieve overall balance when including estimates in fractions of GtC yr–1 for riverine transport, weathering, deep ocean burial, etc. ‘GPP’ is annual gross (terrestrial) primary production. Atmospheric carbon content and all cumulative fluxes since 1750 are as of end 1994. </i> </p>
 
 
-<h5> <a href="{{site.baseurl}}/links" target = "blank">References</a> </h5>
+<h5> <a href="{{site.baseurl}}/links" target = "blank"> References</a> </h5>
 
 
 <a name="Atmosphere"> </a>
@@ -123,11 +120,8 @@ You can find information about the emissions from the developed world (so-called
 
 <p> The future of anthropogenic fossil fuel use depends on human decisions about energy use at the international scale. If we collectively choose to depend more and more on fossil fuels, our emissions will increase. If we choose to focus on efficiency and renewable energy sources, our emissions will not increase so quickly or even stabilize or decline. These are difficult choices with potentially dramatic implications for economies, politics, environment, and society from the local to the global scale. These issues are the focus of the activities under the <a href="https://cop23.unfccc.int/"> United Nations Framework Convention on Climate Change </a> with the most significant recent development being the 2015 Paris Agreement. Current activities focus on the implementation of this plan. </p>
 
-<h5> References </h5>
+<h5> <a href="{{site.baseurl}}/links" target = "blank"> References</a> </h5>
 
-<p style="font-size:80%;"> <a href="https://www.earth-syst-sci-data-discuss.net/essd-2017-123/"> Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017. </a> </p>
-
-<p style="font-size:80%;"> <a href="http://www.globalcarbonproject.org/carbonbudget/"> Global Carbon Project </a> </p>
 
 <a name="OceanUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.ocean }})">
@@ -169,58 +163,7 @@ In the US, the Ocean Carbon and Biogeochemistry (OCB https://www.us-ocb.org/) pr
 Here is a <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification"> video </a> from National Resources Defense Council on ocean acidification. For more detail, see these pages from <a href="http://oceanacidification.noaa.gov/Home.aspx"> NOAA </a> and the <a href="http://www.whoi.edu/main/topic/ocean-acidification"> Woods Hole Oceanographic Institution</a>.
 </p>
 
-<h5> References: </h5>
-
-<p style="font-size:80%;"> Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013). 
-</p>
-
-<p style="font-size:80%;">
-DeVries, T., Holzer, M. & Primeau, F. Recent increase in oceanic carbon uptake driven by weaker upper-ocean overturning. Nature 542, 215–218 (2017).
-</p>
-
-<p style="font-size:80%;">	
-<a href="http://www.nature.com/nature/journal/v462/n7271/full/nature08526.html">
-Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . doi:10.1038/nature08526. </a>
-</p>
-
-<p style="font-size:80%;">
-Khatiwala, S. et al. Global ocean storage of anthropogenic carbon. Biogeosciences 10, 2169–2191 (2013).
-</p>
-
-<p style="font-size:80%;">
-Landschützer, P. et al. The reinvigoration of the Southern Ocean carbon sink. Science 349, 1221–1224 (2015).
-</p>
-
-<p style="font-size:80%;">
-  <a href="https://www.earth-syst-sci-data-discuss.net/essd-2017-123/">
-Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017. 
-  </a>
-</p>
-
-<p style="font-size:80%;">
-McKinley, G. A., Fay, A. R., Lovenduski, N. S. & Pilcher, D. J. Natural Variability and Anthropogenic Trends in the Ocean Carbon Sink. Annu. Rev. Marine. Sci. 9, 125–150 (2017).
-
-</p>
-
-<p style="font-size:80%;">
-Peters, G. P. et al. Towards real-time verification of CO2 emissions. Nature Climate Change 7, 848–850 (2017).
-</p>
-
-<p style="font-size:80%;">
-Ritter, R. et al. Observation-Based Trends of the Southern Ocean Carbon Sink. Geophys Res Lett 44, 12,339–12,348 (2017).
-</p>
-
-<p style="font-size:80%;">
-  <a href="http://www.sciencemag.org/cgi/content/abstract/305/5682/367">
-Sabine et al. (2004) The ocean sink for anthropogenic CO2. Vol. 305. no. 5682, pp. 367 – 371 doi: 10.1126/science.1097403. 
-  </a>
-</p>
-
-<p style="font-size:80%;">
-  <a href="http://www.ldeo.columbia.edu/res/pi/CO2/carbondioxide/pages/air_sea_flux_2000.html">
-Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean pCO2, and net sea-air CO2 flux over the global oceans. DSR II, 56, 554-577. 
-  </a>
-</p>
+<h5> <a href="{{site.baseurl}}/links" target = "blank"> References</a> </h5>
 
 <a name="LandUse"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.land }})">
@@ -244,9 +187,8 @@ Uncertainty in estimates of the land use source are large in part because estima
 
 <p> These terms are separated to clarify the direct impact of humans in forest clearing and subsequent regrowth (Land Use), and the natural system’s response to anthropogenic addition of carbon to the atmosphere and climate warming (Land Uptake). In many studies, however, it is impractical to precisely distinguish between these two terms and so often some component of the Land Use term (such as afforestation in the mid-latitudes) is effectively subsumed into the Land Uptake term. </p>
 
-<h5> References: </h5>
+<h5> <a href="{{site.baseurl}}/links" target = "blank"> References</a> </h5>
 
-<p style="font-size:80%;"><a href="http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.earth.35.031306.140057"> Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 </a> </p>
 
 <a name="LandUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.land2 }})">
@@ -282,29 +224,8 @@ In addition, the land may become a natural source of carbon to the atmosphere. P
 <p>
 It is very important that we better understand the mechanisms of land uptake. As understanding improves, predictions will be of greater assistance to carbon management decision-making. Improving mechanistic understanding is a central focus of the US-led <a href="www.nacarbon.org"> North American Carbon Program </a> and Europe’s <a href="http://www.carboeurope.org/"> CarboEurope</a>. </p>
 
-<h5> References: </h5>
+<h5> <a href="{{site.baseurl}}/links" target = "blank"> References</a> </h5>
 
-<p style="font-size:80%;">
-Benway, H., et al. 2016. A Science Plan for Carbon Cycle Research in North American Coastal Waters. Report of the Coastal CARbon Synthesis (CCARS) community workshop, August 19-21, 2014, Ocean Carbon and Biogeochemistry Program and North American Carbon Program, 84 pp. <a href="http://www.us-ocb.org/wp-content/uploads/sites/43/2017/01/CCARS_Sci_Plan_DRAFT.pdf">Download </a>
-</p>
-
-<p style="font-size:80%;">
-  <a href="http://www.nature.com/nature/journal/v415/n6872/abs/415626a.html?lang=en">
-Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 | doi:10.1038/415626. 
-  </a>
-</p>
-
-<p style="font-size:80%;">
-Golub, M., Desai, A. R., McKinley, G. A., Remucal, C. K. & Stanley, E. H. Large Uncertainty in Estimating pCO2 from Carbonate Equilibria in Lakes. J Geophys Res-Biogeo, doi:10.1002/2017JG003794 (2017). 
-</p>
-
-<p style="font-size:80%;">
-Raymond, P. A. et al. Global carbon dioxide emissions from inland waters. Nature 503, 355–359, doi:10.1038/nature12760 (2013).
-</p>
-
-<p style="font-size:80%;">
-Schuur, E. A. G. et al. Climate change and the permafrost carbon feedback. Nature 520, 171–179, doi:10.1038/nature14338 (2015).
-</p>
 
 
 
