@@ -109,7 +109,7 @@ Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Plane
 
 Benway, H., et al. 2016. A Science Plan for Carbon Cycle Research in North American Coastal Waters. Report of the Coastal CARbon Synthesis (CCARS) community workshop, August 19-21, 2014, Ocean Carbon and Biogeochemistry Program and North American Carbon Program, 84 pp. [Download](http://www.us-ocb.org/wp-content/uploads/sites/43/2017/01/CCARS_Sci_Plan_DRAFT.pdf) 
 
-Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 | [doi:10.1038/415626](http://www.nature.com/nature/journal/v415/n6872/abs/415626a.html?lang=en). 
+Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and sinks using atmospheric transport models. Nature 415, 626-630 [doi:10.1038/415626](http://www.nature.com/nature/journal/v415/n6872/abs/415626a.html?lang=en). 
 
 Golub, M., Desai, A. R., McKinley, G. A., Remucal, C. K. & Stanley, E. H. Large Uncertainty in Estimating pCO2 from Carbonate Equilibria in Lakes. J Geophys Res-Biogeo, doi:10.1002/2017JG003794 (2017). 
 
