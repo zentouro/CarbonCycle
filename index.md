@@ -134,7 +134,7 @@ You can find information about the emissions from the developed world (so-called
 
 <p> CO2 dissolves in seawater, and then reacts with the water so that it dissociates into several ions. This disassociation means that the oceans can hold a lot of carbon – 85% of the active reservoir on Earth. Cold seawater can hold more CO2 than warm water, so waters that are cooling (i.e. poleward-moving western boundary currents) tend to take up carbon, and waters that are upwelling and warming (i.e. coastal zones and the tropics) tend to emit carbon. This is the basic reason for the pattern of the global sea-to-air CO2 flux, as shown in this figure. </p>
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/takahashi_co2_flux.png" style="width:500px;height:301px; /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/takahashi_co2_flux.png" style="width:500px;height:301px;" /> </div> 
 
 <p style="font-size:60%; text-align:center"> <i> Annual mean air-sea CO2 flux, estimated by Takahashi et al. 2009. Positive is from ocean to atmosphere, negative from atmosphere to ocean. </i> </p>
 
